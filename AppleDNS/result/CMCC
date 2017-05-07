@@ -1,0 +1,20 @@
+# Build Date: 2017-05-07T11:40:04.385739 (UTC)
+# API-1-WS [CMCC] (Avg RTT: 6.721ms)
+se.itunes.apple.com = 117.148.166.22
+su.itunes.apple.com = 117.148.166.22
+upp.itunes.apple.com = 117.148.166.22
+apps.itunes.apple.com = 117.148.166.22
+play.itunes.apple.com = 117.148.166.22
+client-api.itunes.apple.com = 117.148.166.22
+# API-2-WS [CMCC] (Avg RTT: 5.147ms)
+s.mzstatic.com = 117.148.166.72
+itunes.apple.com = 117.148.166.72
+init.itunes.apple.com = 117.148.166.72
+itunesconnect.apple.com = 117.148.166.72
+search.itunes.apple.com = 117.148.166.72
+# Beta-HK-Akamai [HongKong] (Avg RTT: 41.933ms)
+beta.itunes.apple.com = 23.50.17.214
+# Radio-HK-Akamai [HongKong] (Avg RTT: 42.808ms)
+radio.itunes.apple.com = 184.87.133.146
+radio-activity.itunes.apple.com = 184.87.133.146
+radio-services.itunes.apple.com = 184.87.133.146
