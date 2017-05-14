@@ -1,0 +1,69 @@
+# 这是本地监听的HTTP代理的端口地址。
+# SpechtLite还会自动启用一个位于port+1的SOCKS5代理服务器。
+# 选择大于1024的未被占用的端口即可。
+port: 9090
+# 下面定义adapter，即远程代理服务器的信息。每个adapter代表一个远程代理服务器。
+adapter:
+  - id: Tokyo
+    type: ss
+    host: 127.0.0.1
+    port: 8080  
+    method: AES-256-CFB
+    password: 123456
+ # 针对每个请求，Speed adapter 自动连接至所有的代理服务器（包括direct），并自动选择连接最快的服务器。参考[TcpRoute2](https://github.com/GameXG/TcpRoute2)
+  - id: proxy
+    type: SPEED
+    adapters:
+      - id: Tokyo
+        delay: 0
+  - id: reject
+    # 不发起任何连接，而是在给定延迟后断开
+    type: reject
+    delay: 300
+    # 接下来定义规则，每一个连接请求都会按顺序一一进行匹配。
+rule:
+  - type: iplist
+    # 被污染的ip列表
+    file: ~/.SpechtLite/pollutedip
+    adapter: proxy
+  - type: list 
+    # 基于给定的list文件中的正则表达式匹配域名信息（不包括IP）。
+    # 直连列表
+    file: ~/.SpechtLite/directlist
+    adapter: direct
+  - type: iplist
+   # 本地ip列表 
+    file: ~/.SpechtLite/directiprange
+    adapter: direct
+  - type: list
+    # 代理列表
+    file: ~/.SpechtLite/proxylist
+    adapter: proxy
+  - type: iplist
+    # 代理ip
+    file: ~/.SpechtLite/proxyiprange
+    adapter: proxy
+  - type: list
+    # 屏蔽列表
+    file: ~/.SpechtLite/rejectlist
+    adapter: reject
+  - type: iplist
+    # 屏蔽的ip
+    file: ~/.SpechtLite/rejectiprange
+    adapter: reject
+  - type: country
+    # 这条规则是否匹配到符合这个国家的IP信息。
+    country: CN
+    match: true
+    adapter: direct
+  - type: country
+    # 当无法找到对应IP的地理位置信息时会返回“--”，这通常意味着这是一个内网IP。
+    country: --
+    match: true
+    adapter: direct
+  - type: DNSFail
+   # 当DNS解析失败时匹配。
+    adapter: proxy
+  - type: all
+    # 匹配所有的请求
+    adapter: proxy
