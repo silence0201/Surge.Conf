@@ -15,3 +15,6 @@
 💥 Final 规则外  
 
 🎲 Cluster 自动选择服务
+
+## Surge
+Surge is available under the MIT license. See the LICENSE file for more info.
