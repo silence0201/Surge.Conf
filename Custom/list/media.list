@@ -1,0 +1,53 @@
+// BBC
+USER-AGENT,BBCiPlayer*
+DOMAIN-KEYWORD,co.uk
+DOMAIN-KEYWORD,uk-live
+DOMAIN-SUFFIX,bbc.co
+DOMAIN-SUFFIX,bbc.com
+
+// CHOCO TV
+USER-AGENT,TwDramas
+DOMAIN-SUFFIX,chocotv.com.tw
+
+// Epicgames
+DOMAIN-KEYWORD,epicgames
+DOMAIN-SUFFIX,helpshift.com
+
+// Hulu
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,huluim.com
+
+// MytvSUPER
+DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,rthklive
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+
+// Netflix
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,netflix.net
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,nflximg.com
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,nflxvideo.net
+
+// WeMusic
+USER-AGENT,WeMusic*
+DOMAIN-KEYWORD,joox
+
+// SoundCloud
+USER-AGENT,SoundCloud*
+
+// Spotify
+PROCESS-NAME,Spotify
+DOMAIN-KEYWORD,spotify
+DOMAIN-SUFFIX,spoto.fi
+
+// Youtube
+DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,youtu.be
+
+// IQIYI
+DOMAIN-SUFFIX,tw.iqiyi.com
