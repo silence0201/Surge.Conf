@@ -1,0 +1,13 @@
+//LINE & DECO
+USER-AGENT,LineDeco
+USER-AGENT,*Line*
+USER-AGENT,*LINE*
+USER-AGENT,*LI*
+USER-AGENT,aceApps*
+
+//macOS brew
+USER-AGENT,Homebrew*
+USER-AGENT,curl*
+
+//OneDrive
+USER-AGENT,OneDrive

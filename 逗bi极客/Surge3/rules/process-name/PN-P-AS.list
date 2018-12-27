@@ -1,0 +1,8 @@
+PROCESS-NAME,App Store
+PROCESS-NAME,TVAppStore*
+PROCESS-NAME,Mac+OS+X
+PROCESS-NAME,Mail //macOS Mail
+PROCESS-NAME,cloudd* // iCloud
+PROCESS-NAME,TVMovies* // iTunes
+PROCESS-NAME,*MacAppStore* // iTunes
+PROCESS-NAME,App Store // MacAppStore
