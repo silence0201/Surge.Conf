@@ -1,11 +1,3 @@
-// Bilibili
-USER-AGENT,*bili*
-PROCESS-NAME,com.bilibili.app.in
-PROCESS-NAME,tv.danmaku.bili
-DOMAIN-KEYWORD,bilibili
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,hdslb.com
-
 // IQIYI
 USER-AGENT,QIYI*
 USER-AGENT,iQiYi*
