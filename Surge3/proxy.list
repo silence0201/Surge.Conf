@@ -9,6 +9,10 @@ PROCESS-NAME,Tweetbot
 PROCESS-NAME,Twitter
 PROCESS-NAME,Twitterrific
 
+//macOS brew
+USER-AGENT,Homebrew*
+USER-AGENT,curl*
+
 // UA
 USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*
 USER-AGENT,AwemeI18n*
