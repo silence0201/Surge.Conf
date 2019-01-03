@@ -3785,7 +3785,7 @@ DOMAIN-SUFFIX,cdn.printfriendly.com
 DOMAIN-SUFFIX,pritunl.com
 DOMAIN-SUFFIX,provpnaccounts.com
 DOMAIN-SUFFIX,proxfree.com
-DOMAIN-SUFFIXanonimo.es
+DOMAIN-SUFFIX,anonimo.es
 DOMAIN-SUFFIXnetwork.org.uk
 DOMAIN-SUFFIX,pts.org.tw
 DOMAIN-SUFFIX,pttvan.org
@@ -3824,9 +3824,9 @@ DOMAIN-SUFFIX,api.proxlet.com
 DOMAIN-SUFFIX,proxomitron.info
 DOMAIN-SUFFIX,proxpn.com
 DOMAIN-SUFFIXlist.org.uk
-DOMAIN-SUFFIXpy.net
-DOMAIN-SUFFIXroad.com
-DOMAIN-SUFFIXtunnel.net
+DOMAIN-SUFFIX,py.net
+DOMAIN-SUFFIX,road.com
+DOMAIN-SUFFIX,tunnel.net
 DOMAIN-SUFFIX,proyectoclubes.com
 DOMAIN-SUFFIX,prozz.net
 DOMAIN-SUFFIX,psblog.name
