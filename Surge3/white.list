@@ -1,8 +1,4 @@
-// For cn domains
-DOMAIN-SUFFIX,cn
-
 // white list from dnsmasq_china_list!
-// updated on 2019-01-01 14:55:02
 DOMAIN-SUFFIX,0-6.com
 DOMAIN-SUFFIX,0-gold.net
 DOMAIN-SUFFIX,00.net
@@ -51742,6 +51738,3 @@ DOMAIN-SUFFIX,zzzyit.com
 DOMAIN-SUFFIX,zzzyk.com
 DOMAIN-SUFFIX,zzzyx.xyz
 DOMAIN-SUFFIX,yourdomainhere.com
-
-// last chance
-GEOIP,CN
