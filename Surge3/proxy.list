@@ -9,10 +9,6 @@ PROCESS-NAME,Tweetbot
 PROCESS-NAME,Twitter
 PROCESS-NAME,Twitterrific
 
-//macOS brew
-USER-AGENT,Homebrew*
-USER-AGENT,curl*
-
 // UA
 USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*
 USER-AGENT,AwemeI18n*
@@ -20,11 +16,6 @@ USER-AGENT,Coinbase*
 USER-AGENT,Instagram*
 USER-AGENT,Resilio Sync*
 USER-AGENT,WhatsApp*
-USER-AGENT,*Telegram*
-USER-AGENT,Coinbase*
-USER-AGENT,SoundCloud*
-USER-AGENT,TikTok*
-USER-AGENT,Twitch*
 
 // Line
 DOMAIN-SUFFIX,lin.ee
@@ -110,6 +101,7 @@ DOMAIN-SUFFIX,async.be
 DOMAIN-SUFFIX,att.com
 DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,awsstatic.com
+DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,badoo.com
