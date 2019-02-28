@@ -63,8 +63,6 @@ DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,aerisapi.com
 DOMAIN-SUFFIX,akamaihd.net
-DOMAIN-SUFFIX,alibaba.com
-DOMAIN-SUFFIX,alibabacloud.com
 DOMAIN-SUFFIX,alfredapp.com
 DOMAIN-SUFFIX,allconnected.co
 DOMAIN-SUFFIX,amazon.com
@@ -168,7 +166,6 @@ DOMAIN-SUFFIX,dcmilitary.com
 DOMAIN-SUFFIX,deja.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,deskconnect.com
-DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,digisfera.com
 DOMAIN-SUFFIX,digitaltrends.com
 DOMAIN-SUFFIX,disconnect.me
@@ -212,6 +209,7 @@ DOMAIN-SUFFIX,flipkart.com
 DOMAIN-SUFFIX,flitto.com
 DOMAIN-SUFFIX,flurry.com
 DOMAIN-SUFFIX,freeopenProxy.com
+DOMAIN-SUFFIX,fubo.tv
 DOMAIN-SUFFIX,fullstory.com
 DOMAIN-SUFFIX,fzlm.net
 DOMAIN-SUFFIX,g.co
@@ -382,7 +380,7 @@ DOMAIN-SUFFIX,pokemon.com
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,popo.tw
 DOMAIN-SUFFIX,potato.im
-DOMAIN-SUFFIX,preview.redd.it
+DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,prfct.co
 DOMAIN-SUFFIX,proxfree.com
 DOMAIN-SUFFIX,psiphon3.com
@@ -544,7 +542,6 @@ DOMAIN-SUFFIX,uspto.gov
 DOMAIN-SUFFIX,ustream.tv
 DOMAIN-SUFFIX,v.gd
 DOMAIN-SUFFIX,v2ex.co
-DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,v2ray.com
 DOMAIN-SUFFIX,van001.com
 DOMAIN-SUFFIX,vanpeople.com
