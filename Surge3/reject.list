@@ -864,7 +864,6 @@ DOMAIN-SUFFIX,access.njherald.com
 DOMAIN-SUFFIX,ac-gb.mgid.com
 DOMAIN-SUFFIX,acint.net
 DOMAIN-SUFFIX,acm.dzwww.com
-DOMAIN-SUFFIX,acs4baichuan.m.taobao.com
 DOMAIN-SUFFIX,acs86.com
 DOMAIN-SUFFIX,acsystem.wasu.cn
 DOMAIN-SUFFIX,act2.mediafour.com
@@ -1979,7 +1978,6 @@ DOMAIN-SUFFIX,btlaunch.baidu.com
 DOMAIN-SUFFIX,btn.onlylady.com
 DOMAIN-SUFFIX,btn.pchome.net
 DOMAIN-SUFFIX,btr.domywife.com
-DOMAIN-SUFFIX,btrace.qq.com
 DOMAIN-SUFFIX,bttrack.com
 DOMAIN-SUFFIX,btyou.com
 DOMAIN-SUFFIX,bu01.zybang.com
@@ -4702,7 +4700,6 @@ DOMAIN-SUFFIX,l.adiers.com
 DOMAIN-SUFFIX,l.betrad.com
 DOMAIN-SUFFIX,l.minisplat.cn
 DOMAIN-SUFFIX,l.mnjkw.cn
-DOMAIN-SUFFIX,l.qq.com
 DOMAIN-SUFFIX,l.supfast.net
 DOMAIN-SUFFIX,l.ujian.cc
 DOMAIN-SUFFIX,l.yidianzixun.com
@@ -4787,7 +4784,6 @@ DOMAIN-SUFFIX,liveupdate.mac.sandai.net
 DOMAIN-SUFFIX,lixiangmo.com
 DOMAIN-SUFFIX,ljrtb.cn
 DOMAIN-SUFFIX,lkf1.m.sanhao3.com
-DOMAIN-SUFFIX,lkme.cc
 DOMAIN-SUFFIX,ll.a.hulu.com
 DOMAIN-SUFFIX,ll.gxsky.com
 DOMAIN-SUFFIX,ll.hudong.com
@@ -8215,7 +8211,7 @@ DOMAIN-SUFFIX,zzz7.52896368.com
 DOMAIN-SUFFIX,zzzzz4.52896368.com
 
 URL-REGEX,^https?:\/\/(\w\.)?up\.qingdaonews\.com
-URL-REGEX,^https?:\/\/(\w+\.)?(ads|log\w?|tj|tongji|stat|stats|statis|trace|track|tracking|click)\.\w+\.(com|cn|net)
+URL-REGEX,^https?:\/\/(\w+\.)?(ads|log\w?|tj|tongji|stat|stats|statis|trace|track|click)\.\w+\.(com|cn|net)
 URL-REGEX,^https?:\/\/(e|m)\..+/((uu|oo)\.php.+|\d+\.x?html\?$)
 URL-REGEX,^https?:\/\/.+\.beacon\.qq\.com
 URL-REGEX,^https?:\/\/.+\.gdt\.qq\.com
