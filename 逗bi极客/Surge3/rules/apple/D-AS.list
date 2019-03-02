@@ -1,8 +1,22 @@
-PROCESS-NAME,App Store
-PROCESS-NAME,TVAppStore*
-PROCESS-NAME,Mac+OS+X
-PROCESS-NAME,Mail //macOS Mail
-PROCESS-NAME,cloudd* // iCloud
-PROCESS-NAME,TVMovies* // iTunes
-PROCESS-NAME,*MacAppStore* // iTunes
-PROCESS-NAME,App Store // MacAppStore
+DOMAIN,swscan.apple.com
+DOMAIN,ocsp.apple.com
+DOMAIN,apsu.apple.com // tc update
+DOMAIN,setup.icloud.com
+DOMAIN,xp.apple.com
+DOMAIN,gsa.apple.com
+DOMAIN,gsas.apple.com
+DOMAIN,se.itunes.apple.com
+DOMAIN,sp.itunes.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN,init.itunes.apple.com
+DOMAIN,audio.itunes.apple.com
+DOMAIN,iosapps.itunes.apple.com
+DOMAIN,beta.itunes.apple.com
+DOMAIN,osxapps.itunes.apple.com
+
+#ATV
+DOMAIN,gdmf.apple.com // appletv update
+DOMAIN,bpapi.apple.com // appletv update
+DOMAIN,appldnld.apple.com // appletv update
+DOMAIN,sylvan.apple.com // appletv screen
+DOMAIN,lcdn-locator.apple.com

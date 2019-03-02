@@ -106,7 +106,7 @@ DOMAIN,ads.ookla.com
 DOMAIN,cdn.ads.ookla.com
 DOMAIN,qqvideo.tc.qq.com
 DOMAIN,ad.toutiao.com
-#DOMAIN,gma.alicdn.com //瀹濊礉鐩稿叧
+#DOMAIN,gma.alicdn.com //宝贝相关
 DOMAIN,ads.wasu.tv
 DOMAIN,afp.wasu.cn
 DOMAIN,afpcreative.wasu.cn
@@ -232,3 +232,6 @@ DOMAIN,syndication.streamads.yahoo.com
 //atv
 DOMAIN,txn.ingest.crittercism.com
 DOMAIN,appload.ingest.crittercism.com
+
+//Google
+DOMAIN,www.google-analytics.com
