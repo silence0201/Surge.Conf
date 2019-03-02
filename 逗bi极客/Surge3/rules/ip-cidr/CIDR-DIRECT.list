@@ -1,0 +1,6 @@
+#集成常见路由表
+IP-CIDR,80.80.80.80/32,no-resolve
+IP-CIDR,45.40.249.96/32,no-resolve
+IP-CIDR,116.196.89.27/32,no-resolve
+
+IP-CIDR,27.36.62.0/24,no-resolve // VIU

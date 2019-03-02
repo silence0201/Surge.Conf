@@ -1,0 +1,9 @@
+DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
+DOMAIN,bcbolthboa-a.akamaihd.net
+
+DOMAIN-SUFFIX,hbogoasia.hk
+DOMAIN-SUFFIX,boltdns.net
+
+
+OR,((DOMAIN-SUFFIX,brightcove.net), (DOMAIN-SUFFIX,brightcove.com))
+
