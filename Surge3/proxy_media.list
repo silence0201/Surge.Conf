@@ -36,6 +36,11 @@ DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbci.co
 DOMAIN-SUFFIX,bbci.co.uk
 
+// Sky GO
+USER-AGENT,skygo*
+DOMAIN-SUFFIX,sky.com
+DOMAIN-SUFFIX,skygo.co.nz
+
 // CHOCO TV
 USER-AGENT,TwDramas*
 DOMAIN-SUFFIX,chocotv.com.tw
