@@ -176,6 +176,7 @@ DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,dnsimple.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,doub.io
+DOMAIN-SUFFIX,dowjones.com
 DOMAIN-SUFFIX,dribbble.com
 DOMAIN-SUFFIX,droplr.com
 DOMAIN-SUFFIX,duckduckgo.com
@@ -637,6 +638,7 @@ DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,twitter
@@ -650,7 +652,6 @@ DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,autodraw.com
 DOMAIN-SUFFIX,bandwagonhost.com
 DOMAIN-SUFFIX,blogblog.com
-DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,chromeexperiments.com
 DOMAIN-SUFFIX,creativelab5.com
 DOMAIN-SUFFIX,crittercism.com
@@ -667,7 +668,6 @@ DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gwtproject.org
 DOMAIN-SUFFIX,heroku.com
 DOMAIN-SUFFIX,html5rocks.com
-DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,keyhole.com
 DOMAIN-SUFFIX,kobo.com
 DOMAIN-SUFFIX,kobobooks.com
