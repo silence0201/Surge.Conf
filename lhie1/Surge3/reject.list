@@ -548,11 +548,13 @@ DOMAIN-SUFFIX,51gxqm.com
 DOMAIN-SUFFIX,51jumintong.com
 DOMAIN-SUFFIX,51la.net
 DOMAIN-SUFFIX,51link.com
+DOMAIN-SUFFIX,51mld.cn
 DOMAIN-SUFFIX,51network.com
 DOMAIN-SUFFIX,51vipedu.com
 DOMAIN-SUFFIX,51weidashi.com
 DOMAIN-SUFFIX,51xumei.com
 DOMAIN-SUFFIX,51yes.com
+DOMAIN-SUFFIX,51zhanzhuang.cn
 DOMAIN-SUFFIX,5207470.com
 DOMAIN-SUFFIX,5269120.com
 DOMAIN-SUFFIX,526d.uunice.com
@@ -863,7 +865,6 @@ DOMAIN-SUFFIX,access.njherald.com
 DOMAIN-SUFFIX,ac-gb.mgid.com
 DOMAIN-SUFFIX,acint.net
 DOMAIN-SUFFIX,acm.dzwww.com
-DOMAIN-SUFFIX,acs4baichuan.m.taobao.com
 DOMAIN-SUFFIX,acs86.com
 DOMAIN-SUFFIX,acsystem.wasu.cn
 DOMAIN-SUFFIX,act2.mediafour.com
@@ -1231,7 +1232,6 @@ DOMAIN-SUFFIX,adpublish.ydstatic.com
 DOMAIN-SUFFIX,adpubs.yaolan.com
 DOMAIN-SUFFIX,adpush.cn
 DOMAIN-SUFFIX,adq.chinaso.com
-DOMAIN-SUFFIX,adquan.com
 DOMAIN-SUFFIX,adrdir.qq.com
 DOMAIN-SUFFIX,adreal.cn
 DOMAIN-SUFFIX,adres.myaora.net
@@ -1290,6 +1290,7 @@ DOMAIN-SUFFIX,adsolution.imtt.qq.com
 DOMAIN-SUFFIX,adsor.openrunner.com
 DOMAIN-SUFFIX,adsp.xunlei.com
 DOMAIN-SUFFIX,ad-specs.guoshipartners.com
+DOMAIN-SUFFIX,adsdk.dmzj.com
 DOMAIN-SUFFIX,adsqqclick.qq.com
 DOMAIN-SUFFIX,adsremote.scrippsnetworks.com
 DOMAIN-SUFFIX,adsrvr.org
@@ -1978,7 +1979,6 @@ DOMAIN-SUFFIX,btlaunch.baidu.com
 DOMAIN-SUFFIX,btn.onlylady.com
 DOMAIN-SUFFIX,btn.pchome.net
 DOMAIN-SUFFIX,btr.domywife.com
-DOMAIN-SUFFIX,btrace.qq.com
 DOMAIN-SUFFIX,bttrack.com
 DOMAIN-SUFFIX,btyou.com
 DOMAIN-SUFFIX,bu01.zybang.com
@@ -2430,7 +2430,6 @@ DOMAIN-SUFFIX,com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,com-eonsun-owl-user.oss-cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,comesgo.com
 DOMAIN-SUFFIX,comet.yahoo.com
-DOMAIN-SUFFIX,comm.app.autohome.com.cn
 DOMAIN-SUFFIX,conf.funshion.com
 DOMAIN-SUFFIX,conf.vidown.cn
 DOMAIN-SUFFIX,conf.xiniuz.com
@@ -2504,7 +2503,6 @@ DOMAIN-SUFFIX,cpro.9xu.com
 DOMAIN-SUFFIX,cpro.baidu.cn
 DOMAIN-SUFFIX,cpro.baidu.com
 DOMAIN-SUFFIX,cpro.fangtoo.com
-DOMAIN-SUFFIX,cpro.tieba.baidu.com
 DOMAIN-SUFFIX,cpro.zhidao.baidu.com
 DOMAIN-SUFFIX,cpro.zol.com.cn
 DOMAIN-SUFFIX,cpro1.edushi.com
@@ -3945,6 +3943,7 @@ DOMAIN-SUFFIX,huimee.net
 DOMAIN-SUFFIX,huishenghuiying.com
 DOMAIN-SUFFIX,humanding.com
 DOMAIN-SUFFIX,hunpingou.com
+DOMAIN-SUFFIX,huodonghezi.com
 DOMAIN-SUFFIX,huoying666.com
 DOMAIN-SUFFIX,hv.code.tanwanyx.com
 DOMAIN-SUFFIX,hw6.com
@@ -4263,6 +4262,7 @@ DOMAIN-SUFFIX,irpmt.mail.163.com
 DOMAIN-SUFFIX,irs01.com
 DOMAIN-SUFFIX,irs01.net
 DOMAIN-SUFFIX,irs09.com
+DOMAIN-SUFFIX,is.snssdk.com
 DOMAIN-SUFFIX,ishowbg.com
 DOMAIN-SUFFIX,istreamsche.com
 DOMAIN-SUFFIX,itaoxiaoshuo.com
@@ -4701,7 +4701,6 @@ DOMAIN-SUFFIX,l.adiers.com
 DOMAIN-SUFFIX,l.betrad.com
 DOMAIN-SUFFIX,l.minisplat.cn
 DOMAIN-SUFFIX,l.mnjkw.cn
-DOMAIN-SUFFIX,l.qq.com
 DOMAIN-SUFFIX,l.supfast.net
 DOMAIN-SUFFIX,l.ujian.cc
 DOMAIN-SUFFIX,l.yidianzixun.com
@@ -4786,7 +4785,6 @@ DOMAIN-SUFFIX,liveupdate.mac.sandai.net
 DOMAIN-SUFFIX,lixiangmo.com
 DOMAIN-SUFFIX,ljrtb.cn
 DOMAIN-SUFFIX,lkf1.m.sanhao3.com
-DOMAIN-SUFFIX,lkme.cc
 DOMAIN-SUFFIX,ll.a.hulu.com
 DOMAIN-SUFFIX,ll.gxsky.com
 DOMAIN-SUFFIX,ll.hudong.com
@@ -5263,7 +5261,6 @@ DOMAIN-SUFFIX,mapping.yoyi.com.cn
 DOMAIN-SUFFIX,market.178.com
 DOMAIN-SUFFIX,market.21cn.com
 DOMAIN-SUFFIX,market.52pk.com
-DOMAIN-SUFFIX,market.aliyun.com
 DOMAIN-SUFFIX,market.duowan.com
 DOMAIN-SUFFIX,marketgid.com
 DOMAIN-SUFFIX,marketing.888.com
@@ -5747,7 +5744,6 @@ DOMAIN-SUFFIX,orz.hupu.com
 DOMAIN-SUFFIX,osc.uranus.sogou.com
 DOMAIN-SUFFIX,osfota.cdn.aliyun.com
 DOMAIN-SUFFIX,oss-asq-static.11222.cn
-DOMAIN-SUFFIX,osupdateservice.yunos.com
 DOMAIN-SUFFIX,otf.msn.com
 DOMAIN-SUFFIX,oth.eve.mdt.qq.com
 DOMAIN-SUFFIX,oth.str.mdt.qq.com
@@ -7225,7 +7221,6 @@ DOMAIN-SUFFIX,tumblrreports.cedexis.com
 DOMAIN-SUFFIX,tunion-api.m.taobao.com
 DOMAIN-SUFFIX,turn.com
 DOMAIN-SUFFIX,tv.code.jjyx.com
-DOMAIN-SUFFIX,tvupgrade.yunos.com
 DOMAIN-SUFFIX,tw.adon.vpon.com
 DOMAIN-SUFFIX,tw.adx.nextmedia.com
 DOMAIN-SUFFIX,tw.api.vpon.com
@@ -7387,7 +7382,6 @@ DOMAIN-SUFFIX,us.bannyat.com
 DOMAIN-SUFFIX,us.bs.serving-sys.com
 DOMAIN-SUFFIX,user.tiankongzudui.com
 DOMAIN-SUFFIX,usercollection.chinadaily.com.cn
-DOMAIN-SUFFIX,uservoice.com
 DOMAIN-SUFFIX,ushaqi.com
 DOMAIN-SUFFIX,usingde.com
 DOMAIN-SUFFIX,usr.mgid.com
@@ -7401,7 +7395,6 @@ DOMAIN-SUFFIX,utk.baidu.com
 DOMAIN-SUFFIX,utp.ucweb.com
 DOMAIN-SUFFIX,uu.feipukeplus.com
 DOMAIN-SUFFIX,uu.zeverdg.com
-DOMAIN-SUFFIX,uuidapi.yunos.com
 DOMAIN-SUFFIX,uuidksinc.net
 DOMAIN-SUFFIX,uulucky.com
 DOMAIN-SUFFIX,uvclick.com
@@ -7635,7 +7628,6 @@ DOMAIN-SUFFIX,widget.raaze.com
 DOMAIN-SUFFIX,widget.searchschoolsnetwork.com
 DOMAIN-SUFFIX,widget.shopstyle.com.au
 DOMAIN-SUFFIX,widget.solarquotes.com.au
-DOMAIN-SUFFIX,widget.weibo.com
 DOMAIN-SUFFIX,widgets.comcontent.net
 DOMAIN-SUFFIX,widgets.realestate.com.au
 DOMAIN-SUFFIX,widnd.dajiadou6.com
@@ -7809,7 +7801,6 @@ DOMAIN-SUFFIX,xdadevelopers.browsi.mobi
 DOMAIN-SUFFIX,xdbwc.com
 DOMAIN-SUFFIX,xdcqcyp.com
 DOMAIN-SUFFIX,xdcs-collector.ximalaya.com
-DOMAIN-SUFFIX,xdrig.com
 DOMAIN-SUFFIX,xdyjt.com
 DOMAIN-SUFFIX,xe2c.com
 DOMAIN-SUFFIX,xf.yellowto.com
@@ -8081,7 +8072,6 @@ DOMAIN-SUFFIX,yunanfuwuqi.com
 DOMAIN-SUFFIX,yunbofangbt.com
 DOMAIN-SUFFIX,yundingjiayuan.com
 DOMAIN-SUFFIX,yunjiasu.com
-DOMAIN-SUFFIX,yunos.com
 DOMAIN-SUFFIX,yunshipei.com
 DOMAIN-SUFFIX,yunxuu.com
 DOMAIN-SUFFIX,yuyue008.cn
@@ -8221,14 +8211,14 @@ DOMAIN-SUFFIX,zzz7.52896368.com
 DOMAIN-SUFFIX,zzzzz4.52896368.com
 
 URL-REGEX,^https?:\/\/(\w\.)?up\.qingdaonews\.com
-URL-REGEX,^https?:\/\/(\w+\.)?(ads|log\w?|tj|tongji|stat|stats|statis|trace|track|tracking|click)\.\w+\.(com|cn|net)
+URL-REGEX,^https?:\/\/(\w+\.)?(ads|log\w?|tj|tongji|stat|stats|statis|trace|track|click)\.\w+\.(com|cn|net)
 URL-REGEX,^https?:\/\/(e|m)\..+/((uu|oo)\.php.+|\d+\.x?html\?$)
 URL-REGEX,^https?:\/\/.+\.beacon\.qq\.com
 URL-REGEX,^https?:\/\/.+\.gdt\.qq\.com
 URL-REGEX,^https?:\/\/.+\.kingsoft-office-service\.com
 URL-REGEX,^https?:\/\/.+\.l\.qq\.com
 URL-REGEX,^https?:\/\/[^(apple|10010)]+\.(com|cn)\/(a|A)d(s|v)?(\/|\.js)
-URL-REGEX,^https?:\/\/\w{3}\.tianya\.cn
+URL-REGEX,^https?:\/\/[^bbs]\.tianya\.cn
 URL-REGEX,^https?:\/\/\w{6}\.com1\.z0\.glb\.clouddn\.com
 URL-REGEX,^https?:\/\/\w{8}\.logic\.cpm\.cm\.kankan\.com
 URL-REGEX,^https?:\/\/\w+\.cloudfront\.net\/banner

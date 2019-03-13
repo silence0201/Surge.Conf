@@ -104,6 +104,11 @@ DOMAIN-SUFFIX,nflxvideo.net
 // Pandora
 DOMAIN-SUFFIX,pandora.com
 
+// Sky GO
+USER-AGENT,skygo*
+DOMAIN-SUFFIX,sky.com
+DOMAIN-SUFFIX,skygo.co.nz
+
 // SoundCloud
 USER-AGENT,SoundCloud*
 

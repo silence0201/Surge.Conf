@@ -19,17 +19,6 @@ DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com
 DOMAIN-SUFFIX,blizzard.com
 
-// Microsoft
-USER-AGENT,OneDrive*
-DOMAIN-KEYWORD,microsoft
-DOMAIN-SUFFIX,hotmail.com
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,office.net
-DOMAIN-SUFFIX,outlook.com
-
 // Prior
 DOMAIN,client.amplifi.com
 DOMAIN,ip.bjango.com
@@ -51,8 +40,6 @@ IP-CIDR6,2a0b:b583::/48,no-resolve
 
 
 # Domestic
-
-DOMAIN-SUFFIX,cn
 
 DOMAIN-SUFFIX,12306.cn
 DOMAIN-SUFFIX,12306.com
@@ -109,6 +96,7 @@ DOMAIN-SUFFIX,cnbetacdn.com
 DOMAIN-SUFFIX,culturedcode.com
 DOMAIN-SUFFIX,dct-cloud.com
 DOMAIN-SUFFIX,didialift.com
+DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,doubanio.com
 DOMAIN-SUFFIX,douyu.com
@@ -158,6 +146,7 @@ DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,jsboxbbs.com
 DOMAIN-SUFFIX,knewone.com
 DOMAIN-SUFFIX,kuaidi100.com
+DOMAIN-SUFFIX,kugou.com
 DOMAIN-SUFFIX,lecloud.com
 DOMAIN-SUFFIX,lemicp.com
 DOMAIN-SUFFIX,letv.com
@@ -236,6 +225,7 @@ DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,tietuku.com
 DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,tmzvps.com
+DOMAIN-SUFFIX,tonymacx86.com
 DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,trellocdn.com
 DOMAIN-SUFFIX,ttmeiju.com
@@ -245,6 +235,7 @@ DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,upaiyun.com
 DOMAIN-SUFFIX,upyun.com
 DOMAIN-SUFFIX,uxengine.net
+DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,wandoujia.com
 DOMAIN-SUFFIX,weather.bjango.com
 DOMAIN-SUFFIX,weather.com
