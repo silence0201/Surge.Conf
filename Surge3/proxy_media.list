@@ -4,12 +4,13 @@ DOMAIN-SUFFIX,go.com
 
 // AbemaTV
 USER-AGENT,AbemaTV*
-DOMAIN,linear-abematv.akamaized.net
 DOMAIN-SUFFIX,abema.io
-DOMAIN-SUFFIX,abema.tv
-DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,ameba.jp
 DOMAIN-SUFFIX,hayabusa.io
+DOMAIN,abematv.akamaized.net
+DOMAIN,ds-linear-abematv.akamaized.net
+DOMAIN,ds-vod-abematv.akamaized.net
+DOMAIN,linear-abematv.akamaized.net
 
 // Amazon Prime Video
 USER-AGENT,InstantVideo.US*
@@ -36,14 +37,16 @@ DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbci.co
 DOMAIN-SUFFIX,bbci.co.uk
 
-// Sky GO
-USER-AGENT,skygo*
-DOMAIN-SUFFIX,sky.com
-DOMAIN-SUFFIX,skygo.co.nz
-
 // CHOCO TV
 USER-AGENT,TwDramas*
 DOMAIN-SUFFIX,chocotv.com.tw
+
+// Now E
+USER-AGENT,PCCW*
+DOMAIN-KEYWORD,nowe
+DOMAIN,bcbolthboa-a.akamaihd.net
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,youboranqs01.com
 
 // Epicgames
 DOMAIN-KEYWORD,epicgames
@@ -97,7 +100,6 @@ DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
 
 // Netflix
-USER-AGENT,Argo*
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
 DOMAIN-SUFFIX,nflxext.com
@@ -108,6 +110,11 @@ DOMAIN-SUFFIX,nflxvideo.net
 
 // Pandora
 DOMAIN-SUFFIX,pandora.com
+
+// Sky GO
+USER-AGENT,skygo*
+DOMAIN-SUFFIX,sky.com
+DOMAIN-SUFFIX,skygo.co.nz
 
 // SoundCloud
 USER-AGENT,SoundCloud*
