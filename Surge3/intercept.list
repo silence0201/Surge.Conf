@@ -5,9 +5,11 @@ DOMAIN-SUFFIX,285680.com
 DOMAIN-SUFFIX,3721zh.com
 DOMAIN-SUFFIX,4336wang.cn
 DOMAIN-SUFFIX,51chumoping.com
+DOMAIN-SUFFIX,51mld.cn
 DOMAIN-SUFFIX,58mingri.cn
 DOMAIN-SUFFIX,58mingtian.cn
 DOMAIN-SUFFIX,6d63d3.com
+DOMAIN-SUFFIX,7gg.cc
 DOMAIN-SUFFIX,91veg.com
 DOMAIN-SUFFIX,9s6q.cn
 DOMAIN-SUFFIX,adsame.com
@@ -28,6 +30,7 @@ DOMAIN-SUFFIX,dafapromo.com
 DOMAIN-SUFFIX,daitdai.com
 DOMAIN-SUFFIX,dsaeerf.com
 DOMAIN-SUFFIX,dugesheying.com
+DOMAIN-SUFFIX,dv8c1t.cn
 DOMAIN-SUFFIX,erdoscs.com
 DOMAIN-SUFFIX,fan-yong.com
 DOMAIN-SUFFIX,feih.com.cn
@@ -42,6 +45,8 @@ DOMAIN-SUFFIX,ichaosheng.com
 DOMAIN-SUFFIX,ishop789.com
 DOMAIN-SUFFIX,jdkic.com
 DOMAIN-SUFFIX,jiubuhua.com
+DOMAIN-SUFFIX,jwg365.cn
+DOMAIN-SUFFIX,kualianyingxiao.cn
 DOMAIN-SUFFIX,kumihua.com
 DOMAIN-SUFFIX,linktech.cn
 DOMAIN-SUFFIX,ltheanine.cn
@@ -81,8 +86,11 @@ DOMAIN-SUFFIX,xiaohuau.xyz
 DOMAIN-SUFFIX,yinmong.com
 DOMAIN-SUFFIX,yiqifa.com
 DOMAIN-SUFFIX,yitaopt.com
+DOMAIN-SUFFIX,yjqiqi.com
+DOMAIN-SUFFIX,yukhj.com
 DOMAIN-SUFFIX,zhaozecheng.cn
 DOMAIN-SUFFIX,zhenxinet.com
+DOMAIN-SUFFIX,zunmi.cn
 DOMAIN-SUFFIX,zzd6.com
 IP-CIDR,39.107.15.115/32,no-resolve
 IP-CIDR,47.89.59.182/32,no-resolve
@@ -123,5 +131,6 @@ IP-CIDR,120.76.189.132/32,no-resolve
 IP-CIDR,124.14.21.147/32,no-resolve
 IP-CIDR,124.14.21.151/32,no-resolve
 IP-CIDR,180.166.52.24/32,no-resolve
+IP-CIDR,211.161.101.106/32,no-resolve
 IP-CIDR,220.115.251.25/32,no-resolve
 IP-CIDR,222.73.156.235/32,no-resolve
