@@ -3234,7 +3234,3 @@ IP-CIDR,223.87.182.101/32,no-resolve
 IP-CIDR,223.87.182.102/32,no-resolve
 IP-CIDR,223.87.182.11/32,no-resolve
 IP-CIDR,223.87.182.52/32,no-resolve
-# Beijing Mobile Float
-IP-CIDR,221.179.140.145/32,no-resolve
-IP-CIDR,221.179.131.72/32,no-resolve
-IP-CIDR,114.247.28.96/32,no-resolve
