@@ -24,7 +24,8 @@ DOMAIN-SUFFIX,llnwd.net
 USER-AGENT,Anime*
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,gamer.com.tw
-DOMAIN-SUFFIX,hinet.net
+DOMAIN,gamer-cds.cdn.hinet.net
+DOMAIN,gamer2-cds.cdn.hinet.net
 
 // BBC
 USER-AGENT,BBCiPlayer*
@@ -126,7 +127,9 @@ DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spoti.fi
 
 // viuTV
+USER-AGENT,ViuTV*
 DOMAIN-SUFFIX,viu.tv
+DOMAIN,api.viu.now.com
 
 // Youtube
 USER-AGENT,*youtube*
@@ -135,3 +138,24 @@ DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,youtu.be
+
+// KKBOX(HK|MO|TW|JP|SG|MY)
+DOMAIN-SUFFIX,kkbox.com
+DOMAIN-SUFFIX,kkbox.com.tw
+DOMAIN-SUFFIX,kfs.io
+
+// KKTV
+USER-AGENT,KKTV*
+USER-AGENT,com.kktv.ios.kktv*
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN-SUFFIX,kktv.me
+DOMAIN,kktv-theater.kk.stream
+
+// Line TV
+USER-AGENT,LINE%20TV*
+DOMAIN-SUFFIX,linetv.tw
+DOMAIN,d3c7rimkq79yfu.cloudfront.net
+
+// LiTV
+DOMAIN-SUFFIX,litv.tv
+DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
