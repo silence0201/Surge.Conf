@@ -1,4 +1,4 @@
-// Client
+# Client
 PROCESS-NAME,v2ray,DIRECT
 PROCESS-NAME,ss-local,DIRECT
 
@@ -12,7 +12,7 @@ PROCESS-NAME,uTorrent,DIRECT
 PROCESS-NAME,WebTorrent,DIRECT
 PROCESS-NAME,WebTorrent Helper,DIRECT
 
-// UA
+# UA
 USER-AGENT,hide*
 USER-AGENT,MicroMessenger*
 USER-AGENT,PayPal*
@@ -22,24 +22,24 @@ USER-AGENT,ting_en
 USER-AGENT,WebTorrent*
 USER-AGENT,WeChat*
 
-// Beplay
+# Beplay
 DOMAIN-KEYWORD,beplay
 
-// Blizzard
+# Blizzard
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com
 DOMAIN-SUFFIX,blizzard.com
 
-// Prior
+# Prior
 DOMAIN,client.amplifi.com
 DOMAIN,ip.bjango.com
 DOMAIN-SUFFIX,alphassl.com
 DOMAIN-SUFFIX,edu.cn
 
-// Steam
+# Steam
 DOMAIN-SUFFIX,steamcontent.com
 
-// TeamViewer
+# TeamViewer
 IP-CIDR,185.188.32.0/24,no-resolve
 IP-CIDR,185.188.33.0/24,no-resolve
 IP-CIDR,185.188.34.0/24,no-resolve
@@ -590,7 +590,7 @@ DOMAIN-SUFFIX,328365365.com
 DOMAIN-SUFFIX,365pushodds.com
 DOMAIN-SUFFIX,zhuishushenqi.com
 
-// Accelerate direct sites
+# Accelerate direct sites
 DOMAIN-KEYWORD,torrent
 URL-REGEX,(Subject|HELO|SMTP)
 URL-REGEX,(api|ps|sv|offnavi|newvector|ulog\.imap|newloc)(\.map|)\.(baidu|n\.shifen)\.com
