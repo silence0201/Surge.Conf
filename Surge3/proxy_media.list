@@ -125,19 +125,31 @@ USER-AGENT,*Spotify*
 DOMAIN-KEYWORD,spotify
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spoti.fi
+DOMAIN-SUFFIX,spotify.com
 
 // viuTV
-USER-AGENT,ViuTV*
 DOMAIN-SUFFIX,viu.tv
-DOMAIN,api.viu.now.com
+USER-AGENT,mytv*
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,rthklive
+DOMAIN-SUFFIX,tvb.com
+USER-AGENT,OTT_iPhone*
+USER-AGENT,Viu*
+DOMAIN-SUFFIX,viu.com
 
 // Youtube
 USER-AGENT,*youtube*
 USER-AGENT,YouTube*
 DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,youtu.be
+
+// YouTube Music
+USER-AGENT,*youtubemusic*
+USER-AGENT,YouTubeMusic*
 
 // KKBOX(HK|MO|TW|JP|SG|MY)
 DOMAIN-SUFFIX,kkbox.com
@@ -165,3 +177,9 @@ USER-AGENT,encoreTVB*
 DOMAIN-SUFFIX,encoretvb.com
 DOMAIN,content.jwplatform.com
 DOMAIN,videos-f.jwpsrv.com
+
+// Vidol & 动画疯
+USER-AGENT,Vidol*
+USER-AGENT,Anime*
+DOMAIN-SUFFIX,cdn.hinet.net
+DOMAIN-SUFFIX,vidol.tv
