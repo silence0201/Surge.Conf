@@ -1,6 +1,9 @@
 # Blocklist 黑名单
 DOMAIN-SUFFIX,kuaizip.com
 DOMAIN-SUFFIX,mackeeper.com
+# Adobe
+DOMAIN-SUFFIX,flash.cn
+DOMAIN,geo2.adobe.com
 # CJ Marketing
 DOMAIN-SUFFIX,4009997658.com
 DOMAIN-SUFFIX,abbyychina.com
