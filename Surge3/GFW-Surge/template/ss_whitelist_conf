@@ -1,0 +1,45 @@
+[General]
+bypass-system = true
+skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, localhost, *.local
+bypass-tun = 192.168.0.0/16,10.0.0.0/8,172.16.0.0/12
+dns-server = 114.114.114.114, 114.114.115.115
+loglevel = notify
+
+__Proxy__
+
+[Rule]
+// For tw
+DOMAIN-SUFFIX,tw,Proxy
+// For apple inc
+DOMAIN-SUFFIX,appstoreconnect.apple.com,Proxy
+DOMAIN-SUFFIX,contentdelivery.itunes.apple.com,Proxy
+DOMAIN-SUFFIX,itmsdav.apple.com,Proxy
+IP-CIDR,17.0.0.0/8,DIRECT,no-resolve
+
+// For whatsapp
+DOMAIN-SUFFIX,whatsapp.com,Proxy
+DOMAIN-SUFFIX,whatsapp.net,Proxy
+IP-CIDR,18.194.0.0/15,Proxy
+IP-CIDR,34.224.0.0/12,Proxy
+
+// Fix youku&yinyuetai
+DOMAIN-SUFFIX,vali.cp31.ott.cibntv.net,DIRECT
+// Fix Netgear router setting page
+DOMAIN-SUFFIX,routerlogin.net,DIRECT
+DOMAIN-SUFFIX,routerlogin.com,DIRECT
+
+
+// AD Block
+__ADBLOCK__
+
+// For cn domains
+DOMAIN-SUFFIX,cn,DIRECT
+
+// white list from dnsmasq_china_list!
+__GFWWHITELIST__
+
+
+// last chance
+GEOIP,CN,DIRECT
+
+FINAL,Proxy
