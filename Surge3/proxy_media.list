@@ -150,6 +150,7 @@ DOMAIN-SUFFIX,youtu.be
 // YouTube Music
 USER-AGENT,*youtubemusic*
 USER-AGENT,YouTubeMusic*
+PROCESS-NAME,YT Music
 
 // KKBOX(HK|MO|TW|JP|SG|MY)
 DOMAIN-SUFFIX,kkbox.com
