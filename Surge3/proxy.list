@@ -377,10 +377,6 @@ DOMAIN-SUFFIX,pixelmator.com
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pixnet.net
 DOMAIN-SUFFIX,playpcesor.com
-DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.com.hk
-DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,pokemon.com
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,popo.tw
@@ -432,9 +428,6 @@ DOMAIN-SUFFIX,smh.com.au
 DOMAIN-SUFFIX,snapchat.com
 DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,sockslist.net
-DOMAIN-SUFFIX,sony.com
-DOMAIN-SUFFIX,sony.com.hk
-DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,sourceforge.net
 DOMAIN-SUFFIX,sowers.org.hk
@@ -696,6 +689,10 @@ DOMAIN-SUFFIX,webrtc.org
 
 DOMAIN-KEYWORD,dlercloud
 DOMAIN-SUFFIX,dler.cloud
+
+#python
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,python.org
 
 # Amazon
 IP-CIDR,13.32.0.0/16,no-resolve

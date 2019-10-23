@@ -2,7 +2,7 @@
 PROCESS-NAME,v2ray,DIRECT
 PROCESS-NAME,ss-local,DIRECT
 
-
+# Down
 PROCESS-NAME,aria2c,DIRECT
 PROCESS-NAME,fdm,DIRECT
 PROCESS-NAME,Folx,DIRECT
@@ -39,7 +39,16 @@ DOMAIN,ip.bjango.com
 DOMAIN-SUFFIX,alphassl.com
 DOMAIN-SUFFIX,edu.cn
 
+// Sony
+USER-AGENT,RemotePlay*
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+
 # Steam
+USER-AGENT,Steam*
 DOMAIN-SUFFIX,steamcontent.com
 
 # TeamViewer
