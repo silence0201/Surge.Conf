@@ -1,4 +1,4 @@
-# Internet Service Provider Hijacking Protection 运营商劫持保护
+# Internet Service Provider Hijacking 运营商劫持
 DOMAIN-SUFFIX,17gouwuba.com
 DOMAIN-SUFFIX,186078.com
 DOMAIN-SUFFIX,189zj.cn
@@ -7,8 +7,10 @@ DOMAIN-SUFFIX,3721zh.com
 DOMAIN-SUFFIX,4336wang.cn
 DOMAIN-SUFFIX,51chumoping.com
 DOMAIN-SUFFIX,51mld.cn
+DOMAIN-SUFFIX,51mypc.cn
 DOMAIN-SUFFIX,58mingri.cn
 DOMAIN-SUFFIX,58mingtian.cn
+DOMAIN-SUFFIX,5vl58stm.com
 DOMAIN-SUFFIX,6d63d3.com
 DOMAIN-SUFFIX,7gg.cc
 DOMAIN-SUFFIX,91veg.com
@@ -32,6 +34,7 @@ DOMAIN-SUFFIX,daitdai.com
 DOMAIN-SUFFIX,dsaeerf.com
 DOMAIN-SUFFIX,dugesheying.com
 DOMAIN-SUFFIX,dv8c1t.cn
+DOMAIN-SUFFIX,echatu.com
 DOMAIN-SUFFIX,erdoscs.com
 DOMAIN-SUFFIX,fan-yong.com
 DOMAIN-SUFFIX,feih.com.cn
@@ -40,7 +43,9 @@ DOMAIN-SUFFIX,fkku194.com
 DOMAIN-SUFFIX,freedrive.cn
 DOMAIN-SUFFIX,gclick.cn
 DOMAIN-SUFFIX,goufanli100.com
+DOMAIN-SUFFIX,goupaoerdai.com
 DOMAIN-SUFFIX,gouwubang.com
+DOMAIN-SUFFIX,gzxnlk.com
 DOMAIN-SUFFIX,haoshengtoys.com
 DOMAIN-SUFFIX,ichaosheng.com
 DOMAIN-SUFFIX,ishop789.com
@@ -50,7 +55,6 @@ DOMAIN-SUFFIX,jwg365.cn
 DOMAIN-SUFFIX,kawo77.com
 DOMAIN-SUFFIX,kualianyingxiao.cn
 DOMAIN-SUFFIX,kumihua.com
-DOMAIN-SUFFIX,linktech.cn
 DOMAIN-SUFFIX,ltheanine.cn
 DOMAIN-SUFFIX,maipinshangmao.com
 DOMAIN-SUFFIX,minisplat.cn
@@ -61,6 +65,7 @@ DOMAIN-SUFFIX,nbkbgd.cn
 DOMAIN-SUFFIX,newapi.com
 DOMAIN-SUFFIX,pinzhitmall.com
 DOMAIN-SUFFIX,poppyta.com
+DOMAIN-SUFFIX,qianchuanghr.com
 DOMAIN-SUFFIX,qichexin.com
 DOMAIN-SUFFIX,qinchugudao.com
 DOMAIN-SUFFIX,quanliyouxi.cn
@@ -82,9 +87,11 @@ DOMAIN-SUFFIX,taoggou.com
 DOMAIN-SUFFIX,tcxshop.com
 DOMAIN-SUFFIX,tjqonline.cn
 DOMAIN-SUFFIX,topitme.com
+DOMAIN-SUFFIX,tt3sm4.cn
 DOMAIN-SUFFIX,tuia.cn
 DOMAIN-SUFFIX,tuipenguin.com
 DOMAIN-SUFFIX,tuitiger.com
+DOMAIN-SUFFIX,websd8.com
 DOMAIN-SUFFIX,wx16999.com
 DOMAIN-SUFFIX,xiaohuau.xyz
 DOMAIN-SUFFIX,yinmong.com
@@ -94,6 +101,7 @@ DOMAIN-SUFFIX,yjqiqi.com
 DOMAIN-SUFFIX,yukhj.com
 DOMAIN-SUFFIX,zhaozecheng.cn
 DOMAIN-SUFFIX,zhenxinet.com
+DOMAIN-SUFFIX,zlne800.com
 DOMAIN-SUFFIX,zunmi.cn
 DOMAIN-SUFFIX,zzd6.com
 IP-CIDR,39.107.15.115/32,no-resolve
