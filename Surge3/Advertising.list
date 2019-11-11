@@ -1,255 +1,89 @@
+# Advertising 广告（以及隐私追踪）
 # General
 DOMAIN-KEYWORD,adservice
 DOMAIN-KEYWORD,analytics
 DOMAIN-KEYWORD,analysis
 
-DOMAIN-SUFFIX,3lift.com
-DOMAIN-SUFFIX,4006825178.com
+DOMAIN-SUFFIX,42trck.com
 DOMAIN-SUFFIX,51.la
-DOMAIN-SUFFIX,550tg.com
-DOMAIN-SUFFIX,56txs4.com
-DOMAIN-SUFFIX,achievementmobile.com
-DOMAIN-SUFFIX,ad373.com
-DOMAIN-SUFFIX,ad4screen.com
-DOMAIN-SUFFIX,ad-brix.com
 DOMAIN-SUFFIX,adcolony.com
-DOMAIN-SUFFIX,adform.net
-DOMAIN-SUFFIX,adinall.com
 DOMAIN-SUFFIX,adinfuse.com
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adjust.io
-DOMAIN-SUFFIX,adkmob.com
-DOMAIN-SUFFIX,adlefee.com
-DOMAIN-SUFFIX,admantx.com
-DOMAIN-SUFFIX,admarketplace.net
-DOMAIN-SUFFIX,admarvel.com
 DOMAIN-SUFFIX,admaster.com.cn
 DOMAIN-SUFFIX,admob.com
-DOMAIN-SUFFIX,adnow.com
 DOMAIN-SUFFIX,adnxs.com
 DOMAIN-SUFFIX,adnyg.com
-DOMAIN-SUFFIX,adsafeprotected.com
-DOMAIN-SUFFIX,adsota.com
-DOMAIN-SUFFIX,ads-pixiv.net
-DOMAIN-SUFFIX,adsrvr.org
-DOMAIN-SUFFIX,ads-twitter.com
-DOMAIN-SUFFIX,adswizz.com
-DOMAIN-SUFFIX,adsymptotic.com
+DOMAIN-SUFFIX,adsensor.org
 DOMAIN-SUFFIX,adtarget.tech
-DOMAIN-SUFFIX,adtechus.com
 DOMAIN-SUFFIX,adthor.com
-DOMAIN-SUFFIX,adtilt.com
-DOMAIN-SUFFIX,adtrue.com
-DOMAIN-SUFFIX,advertising.com
-DOMAIN-SUFFIX,advertnative.com
-DOMAIN-SUFFIX,adview.cn
-DOMAIN-SUFFIX,adxpansion.com
-DOMAIN-SUFFIX,adxvip.com
-DOMAIN-SUFFIX,aerserv.com
-DOMAIN-SUFFIX,agkn.com
-DOMAIN-SUFFIX,alipaylog.com
+DOMAIN-SUFFIX,adwhirl.com
 DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,amobee.com
 DOMAIN-SUFFIX,analysys.cn
 DOMAIN-SUFFIX,app-adforce.jp
+DOMAIN-SUFFIX,appadhoc.com
 DOMAIN-SUFFIX,appads.com
-DOMAIN-SUFFIX,appboy.com
 DOMAIN-SUFFIX,appier.net
 DOMAIN-SUFFIX,applift.com
-DOMAIN-SUFFIX,applovin.com
-DOMAIN-SUFFIX,appnext.com
-DOMAIN-SUFFIX,appodealx.com
-DOMAIN-SUFFIX,appsee.com
 DOMAIN-SUFFIX,appsflyer.com
-DOMAIN-SUFFIX,apptap.com
-DOMAIN-SUFFIX,apptentive.com
-DOMAIN-SUFFIX,apptornado.com
-DOMAIN-SUFFIX,atdmt.com
-DOMAIN-SUFFIX,atwola.com
-DOMAIN-SUFFIX,betrad.com
-DOMAIN-SUFFIX,bidswitch.com
-DOMAIN-SUFFIX,bjytgw.com
-DOMAIN-SUFFIX,bttrack.com
-DOMAIN-SUFFIX,bxmns.com
-DOMAIN-SUFFIX,cappumedia.com
-DOMAIN-SUFFIX,celtra.com
-DOMAIN-SUFFIX,cferw.com
-DOMAIN-SUFFIX,chartbeat.net
-DOMAIN-SUFFIX,chartboost.com
-DOMAIN-SUFFIX,chitika.com
-DOMAIN-SUFFIX,clickhubs.com
-DOMAIN-SUFFIX,clickintext.com
-DOMAIN-SUFFIX,clickintext.net
+DOMAIN-SUFFIX,apsalar.com
+DOMAIN-SUFFIX,apxadtracking.net
+DOMAIN-SUFFIX,axonix.com
 DOMAIN-SUFFIX,cloudmobi.net
-DOMAIN-SUFFIX,cnadnet.com
 DOMAIN-SUFFIX,cnzz.com
-DOMAIN-SUFFIX,cocounion.com
-DOMAIN-SUFFIX,conversantmedia.com
-DOMAIN-SUFFIX,conviva.com
-DOMAIN-SUFFIX,criteo.com
-DOMAIN-SUFFIX,crwdcntrl.net
 DOMAIN-SUFFIX,ctrmi.com
-DOMAIN-SUFFIX,demdex.net
-DOMAIN-SUFFIX,dianomi.com
-DOMAIN-SUFFIX,digitru.st
-DOMAIN-SUFFIX,dtscout.com
-DOMAIN-SUFFIX,duapps.com
-DOMAIN-SUFFIX,effectivemeasure.net
-DOMAIN-SUFFIX,endpo.in
-DOMAIN-SUFFIX,eum-appdynamics.com
-DOMAIN-SUFFIX,exoclick.com
-DOMAIN-SUFFIX,exosrv.com
-DOMAIN-SUFFIX,exponential.com
-DOMAIN-SUFFIX,exposebox.com
-DOMAIN-SUFFIX,eyeota.net
-DOMAIN-SUFFIX,eyeviewads.com
-DOMAIN-SUFFIX,fastredirecting.com
 DOMAIN-SUFFIX,flurry.com
-DOMAIN-SUFFIX,fuse-ad.com
-DOMAIN-SUFFIX,fwmrm.net
-DOMAIN-SUFFIX,getrockerbox.com
 DOMAIN-SUFFIX,go2cloud.org
-DOMAIN-SUFFIX,go-mpulse.net
-DOMAIN-SUFFIX,gowadogo.com
 DOMAIN-SUFFIX,growingio.com
-DOMAIN-SUFFIX,gwallet.com
-DOMAIN-SUFFIX,hopemobi.net
-DOMAIN-SUFFIX,hotrk0.com
-DOMAIN-SUFFIX,i2000.xyz
-DOMAIN-SUFFIX,igexin.com
-DOMAIN-SUFFIX,i-mobile.co.jp
-DOMAIN-SUFFIX,imrworldwide.com
-DOMAIN-SUFFIX,indexww.com
+DOMAIN-SUFFIX,haloapps.com
 DOMAIN-SUFFIX,inmobi.cn
 DOMAIN-SUFFIX,inmobi.com
-DOMAIN-SUFFIX,instabug.com
+DOMAIN-SUFFIX,inmobi.net
+DOMAIN-SUFFIX,inmobicdn.cn
+DOMAIN-SUFFIX,inner-active.mobi
 DOMAIN-SUFFIX,irs01.com
-DOMAIN-SUFFIX,juicyads.com
-DOMAIN-SUFFIX,kejet.net
-DOMAIN-SUFFIX,knlob.com
+DOMAIN-SUFFIX,iskyworker.com
 DOMAIN-SUFFIX,kochava.com
-DOMAIN-SUFFIX,koolmediaoffers.com
-DOMAIN-SUFFIX,krxd.net
-DOMAIN-SUFFIX,leadbolt.net
-DOMAIN-SUFFIX,leadzu.com
-DOMAIN-SUFFIX,leanplum.com
+DOMAIN-SUFFIX,leadboltmobile.net
 DOMAIN-SUFFIX,lenzmx.com
-DOMAIN-SUFFIX,lifestreet.com
-DOMAIN-SUFFIX,lifestreetmedia.com
-DOMAIN-SUFFIX,ligatus.com
-DOMAIN-SUFFIX,lkt75d.cn
+DOMAIN-SUFFIX,liveadvert.com
 DOMAIN-SUFFIX,lnk0.com
-DOMAIN-SUFFIX,luomi.com
-DOMAIN-SUFFIX,madserving.com
-DOMAIN-SUFFIX,mathtag.com
-DOMAIN-SUFFIX,media.net
+DOMAIN-SUFFIX,lnk8.cn
+DOMAIN-SUFFIX,localytics.com
+DOMAIN-SUFFIX,measurementapi.com
 DOMAIN-SUFFIX,medialytics.com
-DOMAIN-SUFFIX,metalex.io
-DOMAIN-SUFFIX,mfadsrvr.com
-DOMAIN-SUFFIX,mgid.com
 DOMAIN-SUFFIX,miaozhen.com
-DOMAIN-SUFFIX,moatads.com
-DOMAIN-SUFFIX,mobileapptracking.com
-DOMAIN-SUFFIX,mobileconnect.co.kr
-DOMAIN-SUFFIX,mobiw.com
-DOMAIN-SUFFIX,mobstarry.com
-DOMAIN-SUFFIX,mobtrack.co
-DOMAIN-SUFFIX,mojiva.com
+DOMAIN-SUFFIX,mobclix.com
 DOMAIN-SUFFIX,mopub.com
-DOMAIN-SUFFIX,mparticle.com
-DOMAIN-SUFFIX,mxpnl.com
-DOMAIN-SUFFIX,mybest.app
-DOMAIN-SUFFIX,mydas.mobi
-DOMAIN-SUFFIX,nexage.com
-DOMAIN-SUFFIX,nr-data.net
-DOMAIN-SUFFIX,offerstrack.net
-DOMAIN-SUFFIX,omtrdc.net
-DOMAIN-SUFFIX,onead.com.tw
-DOMAIN-SUFFIX,onevision.com.tw
-DOMAIN-SUFFIX,outbrain.com
-DOMAIN-SUFFIX,parsely.com
-DOMAIN-SUFFIX,peak-adx.com
-DOMAIN-SUFFIX,personaly.click
-DOMAIN-SUFFIX,popads.com
-DOMAIN-SUFFIX,popads.net
-DOMAIN-SUFFIX,propellerads.com
-DOMAIN-SUFFIX,pubnative.net
+DOMAIN-SUFFIX,onelink.me
+DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,qchannel01.cn
-DOMAIN-SUFFIX,qualtrics.com
-DOMAIN-SUFFIX,quantserve.com
-DOMAIN-SUFFIX,quixdtrk.com
 DOMAIN-SUFFIX,rayjump.com
 DOMAIN-SUFFIX,rubiconproject.com
 DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,sdkclick.com
-DOMAIN-SUFFIX,serving-sys.com
-DOMAIN-SUFFIX,simplepath.com
-DOMAIN-SUFFIX,singular.net
-DOMAIN-SUFFIX,skimresources.com
-DOMAIN-SUFFIX,smardroid.com
+DOMAIN-SUFFIX,shuzilm.cn
+DOMAIN-SUFFIX,smaato.net
 DOMAIN-SUFFIX,smartadserver.com
-DOMAIN-SUFFIX,snnd.co
-DOMAIN-SUFFIX,sonobi.com
-DOMAIN-SUFFIX,starmobs.com
-DOMAIN-SUFFIX,startappexchange.com
-DOMAIN-SUFFIX,startappservice.com
-DOMAIN-SUFFIX,storygize.net
-DOMAIN-SUFFIX,summerhamster.com
-DOMAIN-SUFFIX,superads.cn
-DOMAIN-SUFFIX,supersonicads.com
-DOMAIN-SUFFIX,taboola.com
+DOMAIN-SUFFIX,smartnews-ads.com
 DOMAIN-SUFFIX,tagtic.cn
-DOMAIN-SUFFIX,talkingdata.com
-DOMAIN-SUFFIX,tango-deg.com
 DOMAIN-SUFFIX,tanv.com
 DOMAIN-SUFFIX,tanx.com
-DOMAIN-SUFFIX,tapad.com
-DOMAIN-SUFFIX,taplytics.com
-DOMAIN-SUFFIX,taptica.com
-DOMAIN-SUFFIX,testplus.cn
-DOMAIN-SUFFIX,trackclickers.com
 DOMAIN-SUFFIX,trafficjunky.net
-DOMAIN-SUFFIX,trustx.org
-DOMAIN-SUFFIX,tuanxue360.net
 DOMAIN-SUFFIX,turn.com
-DOMAIN-SUFFIX,uberads.com
-DOMAIN-SUFFIX,udrig.com
-DOMAIN-SUFFIX,ugdtimg.com
-DOMAIN-SUFFIX,umeng.co
-DOMAIN-SUFFIX,umeng.com
-DOMAIN-SUFFIX,umengcloud.com
-DOMAIN-SUFFIX,umtrack.com
-DOMAIN-SUFFIX,upcpi.com
-DOMAIN-SUFFIX,urbanairship.com
-DOMAIN-SUFFIX,usebutton.com
-DOMAIN-SUFFIX,voiceads.cn
-DOMAIN-SUFFIX,vrtcal.com
-DOMAIN-SUFFIX,vserv.mobi
+DOMAIN-SUFFIX,uri6.com
+DOMAIN-SUFFIX,vidoomy.com
+DOMAIN-SUFFIX,voicefive.com
 DOMAIN-SUFFIX,vungle.com
-DOMAIN-SUFFIX,webspectator.com
-DOMAIN-SUFFIX,xadchina.cn
+DOMAIN-SUFFIX,wedolook.com
 DOMAIN-SUFFIX,xdrig.com
-DOMAIN-SUFFIX,yldbt.com
-DOMAIN-SUFFIX,yllix.com
-DOMAIN-SUFFIX,ymtracking.com
-DOMAIN-SUFFIX,zcoup.com
 
 DOMAIN-SUFFIX,ad.daum.net
 DOMAIN-SUFFIX,track.xiachufang.com
-DOMAIN-SUFFIX,deliver.ifeng.com
-DOMAIN,log.umsns.com
-DOMAIN,log.snssdk.com
-DOMAIN,toblog.snssdk.com
-DOMAIN,wgo.mmstat.com
-DOMAIN,report.jpush.cn
-DOMAIN,static.jpush.cn
-DOMAIN,stats.jpush.cn
-DOMAIN,stats.umsns.com
-DOMAIN,s0.2mdn.net
-DOMAIN,appnext.hs.llnwd.net
-DOMAIN,appnext-a.akamaihd.net
-
 DOMAIN,abema-adx.ameba.jp
 DOMAIN,ad.12306.cn
+DOMAIN,ad.51wnl-cq.com
 DOMAIN,ad.caiyunapp.com
 DOMAIN,ad.huajiao.com
 DOMAIN,ad.hzyoka.com
@@ -257,23 +91,27 @@ DOMAIN,ad.jiemian.com
 DOMAIN,ad.qingting.fm
 DOMAIN,ad.wappalyzer.com
 DOMAIN,ad-cn.jovcloud.com
+DOMAIN,adextra.51wnl-cq.com
+DOMAIN,ads.adadapted.com
+DOMAIN,ads.daydaycook.com.cn
+DOMAIN,ads.weilitoutiao.net
 DOMAIN,adsapi.manhuaren.com
 DOMAIN,adsdk.dmzj.com
-DOMAIN,ads.daydaycook.com.cn
+DOMAIN,adserver.pandora.com
 DOMAIN,adui.tg.meitu.com
+DOMAIN,adv.bandi.so
 DOMAIN,adx.hupu.com
 DOMAIN,adx-api.hupu.com
 DOMAIN,adxserver.ad.cmvideo.cn
 DOMAIN,app-ad.variflight.com
 DOMAIN,applog.mobike.com
+DOMAIN,appnext.hs.llnwd.net
+DOMAIN,appnext-a.akamaihd.net
 DOMAIN,ggs.myzaker.com
 DOMAIN,itad.linetv.tw
 DOMAIN,ja.chushou.tv
-DOMAIN,log.b612kaji.com
-DOMAIN,log.star.ele.me
-DOMAIN,log.voicecloud.cn
-DOMAIN,log.ys7.com
-DOMAIN,logs.chelaile.net.cn
+DOMAIN,mads.suning.com
+DOMAIN,mobileads.msn.com
 DOMAIN,mopnativeadv.037201.com
 DOMAIN,nativeadv.dftoutiao.com
 DOMAIN,optimus-ads.amap.com
@@ -284,10 +122,12 @@ DOMAIN,trackapp.guahao.cn
 DOMAIN,traffic.mogujie.com
 DOMAIN,wmlog.meituan.com
 
+# (0~9)
 # 58 同城
 DOMAIN,adshow.58.com
 DOMAIN,track.58.com
 DOMAIN,tracklog.58.com
+# (A)
 # Apple
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,ads.internal.unity3d.com
@@ -298,11 +138,11 @@ DOMAIN,acs4baichuan.m.taobao.com
 DOMAIN,adash.m.taobao.com
 DOMAIN,adash.man.aliyuncs.com
 DOMAIN,adashbc.ut.taobao.com
+DOMAIN,adashx.m.taobao.com
 DOMAIN,adash-c.ut.taobao.com
 DOMAIN,adashxgc.ut.taobao.com
 DOMAIN,adashx4yt.m.taobao.com
-DOMAIN,amdc.m.taobao.com
-DOMAIN,apoll.m.taobao.com
+DOMAIN,h-adashx.ut.taobao.com
 DOMAIN,nbsdk-baichuan.alicdn.com
 DOMAIN,tunion-api.m.taobao.com
 # AutoHome
@@ -310,17 +150,21 @@ DOMAIN,adproxy.autohome.com.cn
 DOMAIN,rd.autohome.com.cn
 DOMAIN,al.autohome.com.cn
 DOMAIN,applogapi.autohome.com.cn
+# (B)
 # Baidu
 DOMAIN-SUFFIX,baidustatic.com
+DOMAIN-SUFFIX,cpro.baidu.com
+DOMAIN-SUFFIX,pos.baidu.com
 DOMAIN,afd.baidu.com
+DOMAIN,als.baidu.com
 DOMAIN,duclick.baidu.com
 DOMAIN,hm.baidu.com
 DOMAIN,hmma.baidu.com
 DOMAIN,mobads.baidu.com
 DOMAIN,mobads-logs.baidu.com
 DOMAIN,nsclick.baidu.com
-DOMAIN,wn.pos.baidu.com
 # ByteDance
+DOMAIN,ad.toutiao.com
 DOMAIN,applog.musical.ly
 DOMAIN,track.toutiao.com
 DOMAIN,xlog.snssdk.com
@@ -331,6 +175,7 @@ DOMAIN,log.ycapp.yiche.com
 # 百词斩
 DOMAIN,advertise.baicizhan.org
 DOMAIN,advertise.baicizhan.com
+# (C)
 # CNTV
 DOMAIN,galaxy.bjcathay.com
 DOMAIN,mdrecv.app.cntvwb.cn
@@ -339,6 +184,10 @@ DOMAIN,vdapprecv.app.cntvwb.cn
 # ChinaNet
 DOMAIN,admarket.21cn.com
 DOMAIN,adshows.21cn.com
+# 车来了
+DOMAIN,atrace.chelaile.net.cn
+DOMAIN,logs.chelaile.net.cn
+# (G)
 # Google
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,googleadservices.com
@@ -346,16 +195,16 @@ DOMAIN-SUFFIX,googleadsserving.cn
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagservices.com
-DOMAIN-SUFFIX,google-analytics.com
+# (H)
 # HunanTV
 DOMAIN-SUFFIX,da.mgtv.com
 DOMAIN-SUFFIX,da.hunantv.com
 DOMAIN-SUFFIX,log.hunantv.com
 DOMAIN,log.v2.hunantv.com
 DOMAIN,v2.log.hunantv.com
+# (I)
 # iQiyi
 DOMAIN,ifacelog.iqiyi.com
-DOMAIN,mbdlog.iqiyi.com
 DOMAIN,msg.71.am
 DOMAIN,msg.qy.net
 DOMAIN,t7z.cupid.iqiyi.com
@@ -363,6 +212,11 @@ IP-CIDR,101.227.97.240/32,no-resolve
 IP-CIDR,101.227.200.11/32,no-resolve
 IP-CIDR,101.227.200.28/32,no-resolve
 IP-CIDR,124.192.153.42/32,no-resolve
+# Ifeng
+DOMAIN-SUFFIX,deliver.ifeng.com
+DOMAIN,api.newad.ifeng.com
+DOMAIN,ifengad.3g.ifeng.com
+# (K)
 # KuGou and Kuwo
 DOMAIN,adserviceretry.kugou.com
 DOMAIN,ads.service.kugou.com
@@ -379,26 +233,35 @@ DOMAIN,rich.kuwo.cn
 # Kingsoft
 DOMAIN,ad-stat.ksosoft.com
 DOMAIN,img.auction-ads.wpscdn.cn
+DOMAIN,counter.kingsoft.com
+DOMAIN,counter.ksosoft.com
 DOMAIN,minfo.wps.cn
+DOMAIN,mobad.ijinshan.com
+DOMAIN,ups.ksmobile.net
+DOMAIN,ws.ksmobile.net
+# (L)
 # Le
 DOMAIN-SUFFIX,webp2p.letv.com
 DOMAIN,ark.letv.com
 DOMAIN,emma-414870e223.huodonghezi.com
 DOMAIN,g3.letv.com
 DOMAIN,n.mark.letv.com
+# (M)
 # MI
+DOMAIN-SUFFIX,ad.intl.xiaomi.com
 DOMAIN-SUFFIX,ad.xiaomi.com
 DOMAIN-SUFFIX,admob.xiaomi.com
-DOMAIN-SUFFIX,ad.intl.xiaomi.com
 DOMAIN-SUFFIX,tracking.miui.com
-DOMAIN,adv.sec.miui.com
 DOMAIN,adv.sec.intl.miui.com
-DOMAIN,o2o.api.xiaomi.com
+DOMAIN,adv.sec.miui.com
+DOMAIN,data.mistat.xiaomi.com
+DOMAIN,tracking.intl.miui.com
 # 墨迹天气
 DOMAIN,ad.api.moji.com
 DOMAIN,adlaunch.moji.com
 DOMAIN,ads.mojicdn.com
 DOMAIN,v1.log.moji.com
+# (N)
 # NetEase
 DOMAIN,ad.bn.netease.com
 DOMAIN,ad.yixin.im
@@ -413,8 +276,10 @@ DOMAIN,log-yex.youdao.com
 DOMAIN,n.3g.163.com
 DOMAIN,nex.163.com
 DOMAIN,yt-adp.nosdn.127.net
+# (P)
 # PPTV
 DOMAIN,ads.aplus.pptv.com
+DOMAIN,ads.aplusapi.pptv.com
 DOMAIN,asimgs.pplive.cn
 DOMAIN,de.as.pptv.com
 # Photoable
@@ -423,24 +288,30 @@ DOMAIN,cdn.adapi.fotoable.com
 # PeanutWiFiMpass
 DOMAIN,adnew.wifi8.com
 DOMAIN,adfile.wifi8.com
+# (S)
 # Sina
+DOMAIN-SUFFIX,beacon.sina.com.cn
+DOMAIN,adimg.vue.weibo.com
 DOMAIN,u1.img.mobile.sina.cn
 DOMAIN,sax.sina.com.cn
 DOMAIN,saxs.sina.com.cn
 DOMAIN,saxn.sina.com.cn
 # Sohu
+DOMAIN-SUFFIX,ad.sohu.com
 DOMAIN-SUFFIX,ads.sohu.com
 DOMAIN-SUFFIX,aty.sohu.com
 DOMAIN,imp.optaim.com
 DOMAIN,v2.reachmax.cn
 DOMAIN,track.sohu.com
 DOMAIN,hui.sohu.com
+# (T)
 # Tencent
 DOMAIN-SUFFIX,bugly.qq.com
 DOMAIN-SUFFIX,e.qq.com
 DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,l.qq.com
 DOMAIN-SUFFIX,rqd.qq.com
+DOMAIN,adsmind.tc.qq.com
 DOMAIN,btrace.qq.com
 DOMAIN,mtrace.qq.com
 DOMAIN,oth.eve.mdt.qq.com
@@ -467,24 +338,499 @@ DOMAIN,iad0ssl.pconline.com.cn
 DOMAIN,imgad0.pcauto.com.cn
 DOMAIN,imgad0.pconline.com.cn
 DOMAIN,ivy.pchouse.com.cn
+# (U)
 # UC
 DOMAIN,adtrack.ucweb.com
 DOMAIN,applogios.uc.cn
 DOMAIN,track.uc.cn
+# Umeng
+DOMAIN,alog.umeng.com
+DOMAIN,alogs.umeng.com
+DOMAIN,alog.umengcloud.com
+DOMAIN,alogs.umengcloud.com
+DOMAIN,ar.umeng.com
+DOMAIN,plbslog.umeng.com
+DOMAIN,ulogs.umeng.com
+DOMAIN,ulogs.umengcloud.com
+# (W)
 # WiFi 万能钥匙
 DOMAIN,a.wkanx.com
 DOMAIN,cwx.lianwangtech.com
 DOMAIN,c1wx.lianwangtech.com
+# (X)
 # 喜马拉雅
 DOMAIN,ad.ximalaya.com
 DOMAIN,adse.ximalaya.com
+DOMAIN,adse.wsa.ximalaya.com
+DOMAIN,adbehavior.wsa.ximalaya.com
 # 小红书
-DOMAIN,t-ads.xiaohongshu.com
 DOMAIN,apm-track.xiaohongshu.com
+DOMAIN,t-ads.xiaohongshu.com
+# (Y)
 # Youku
 DOMAIN-SUFFIX,atm.youku.com
 DOMAIN,ad.mobile.youku.com
 DOMAIN,iyes.youku.com
+# (Z)
 # ZOL
 DOMAIN,apppv.zol.com.cn
 DOMAIN,pvnapp.zol.com.cn
+
+# URL
+# 0~9
+# 21epaper
+URL-REGEX,^https?:\/\/api\.21jingji\.com\/ad\/
+# 58同城
+URL-REGEX,^https?:\/\/app\.58\.com\/api\/home\/advertising\/
+URL-REGEX,^https?:\/\/app\.58\.com\/api\/home\/appadv\/
+URL-REGEX,^https?:\/\/app\.58\.com\/api\/home\/invite\/popupAdv
+URL-REGEX,^https?:\/\/app\.58\.com\/api\/log\/
+URL-REGEX,^https?:\/\/.+\.58cdn\.com\.cn\/brandads\/
+
+# A
+# Alibaba
+URL-REGEX,^https?:\/\/gw\.alicdn\.com\/tfs\/.+-\d{4}\.jpg
+# 闲鱼
+URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.taobao\.idle\.home\.welcome\/
+# 飞猪
+URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.trip\.activity\.querytmsresources\/
+# 淘票票
+URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.film\.mtopadvertiseapi\.queryadvertise\/
+# 口碑
+URL-REGEX,^https?:\/\/render\.alipay\.com\/p\/s\/h5data\/prod\/spring-festival-2019-h5data\/popup-h5data\.json
+URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.o2o\.ad\.gateway\.get\/
+URL-REGEX,^https?:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.taobao\.wireless\.home\.splash\.awesome\.get\/
+# UC
+URL-REGEX,^https?:\/\/huichuan\.sm\.cn\/jsad
+URL-REGEX,^https?:\/\/iflow\.uczzd\.cn\/log\/
+# AMap
+URL-REGEX,^https?:\/\/m\d\.amap\.com\/ws\/valueadded\/alimama\/splash_screen\/
+# AcFun
+URL-REGEX,^https?:\/\/aes\.acfun\.cn\/s\?adzones
+# 爱回收
+URL-REGEX,^https?:\/\/gw\.aihuishou\.com\/app-portal\/home\/getadvertisement
+# APICloud
+URL-REGEX,^https?:\/\/a\.apicloud\.com\/start_page\/
+# AppLovin
+URL-REGEX,^https?:\/\/.+\.applovin\.com\/.+\/ad
+
+# B
+# Baidu
+# 百度网盘
+URL-REGEX,^https?:\/\/update\.pan\.baidu\.com\/statistics
+URL-REGEX,^https?:\/\/issuecdn\.baidupcs\.com\/issue\/netdisk\/guanggao\/
+# 百度贴吧
+URL-REGEX,^https?:\/\/c\.tieba\.baidu\.com\/c\/s\/splashSchedule
+URL-REGEX,^https?:\/\/c\.tieba\.baidu\.com\/c\/f\/forum\/getAdInfo
+URL-REGEX,^https?:\/\/c\.tieba\.baidu\.com\/\w+\/\w+\/(sync|newRnSync|newlog|mlog)
+# 百度地图
+# URL-REGEX,^https?:\/\/.+\/client\/phpui2\/
+URL-REGEX,^https?:\/\/ss0\.bdstatic\.com/.+_\d{3}_\d{4}\.jpg
+# ByteDance
+URL-REGEX,^https?:\/\/.+\.pstatp\.com\/img\/ad
+URL-REGEX,^https?:\/\/.+\.(musical|snssdk|tiktokv)\.(com|ly)\/(api|motor)\/ad\/
+URL-REGEX,^https?:\/\/dsp\.toutiao\.com\/api\/xunfei\/ads\/
+URL-REGEX,^https?:\/\/.+\.snssdk\.com\/motor\/operation\/activity\/display\/config\/V2\/
+# bilibili
+URL-REGEX,^https?:\/\/app\.bilibili\.com\/x\/v2\/splash\/
+# 抱抱
+URL-REGEX,^https?:\/\/www\.myhug\.cn\/ad\/
+# 百词斩
+URL-REGEX,^https?:\/\/7n\.bczcdn\.com\/launchad\/
+# 贝太厨房
+URL-REGEX,^https?:\/\/channel\.beitaichufang\.com\/channel\/api\/v\d\/promote\/ios\/start\/page
+# 币世界
+URL-REGEX,^https?:\/\/iapi\.bishijie\.com\/actopen\/advertising\/
+# 贝壳找房
+URL-REGEX,^https?:\/\/app\.api\.ke\.com\/config\/config\/bootpage
+# Bank of China
+URL-REGEX,^https?:\/\/mlife\.jf365\.boc\.cn\/AppPrj\/FirstPic\.do\?
+# Boohee
+URL-REGEX,^https?:\/\/status\.boohee\.com\/api\/v\d\/app_square\/start_up_with_ad
+
+# C
+# China CITIC Bank
+URL-REGEX,^https?:\/\/m\.creditcard\.ecitic\.com\/citiccard\/mbk\/.+\/appStartAdv
+# Industrial and Commercial Bank of China
+URL-REGEX,^https?:\/\/v\.icbc\.com\.cn\/userfiles\/Resources\/WAP\/advertisement\/
+# China Merchants Bank
+URL-REGEX,^https?:\/\/mlife\.cmbchina\.com/ClientFaceService\/preCacheAdvertise\.json
+URL-REGEX,^https?:\/\/mlife\.cmbchina\.com\/ClientFaceService\/getAdvertisement\.json
+URL-REGEX,^https?:\/\/pic1cdn\.cmbchina\.com\/appinitads\/
+# China Merchants Bank
+URL-REGEX,^https?:\/\/www\.cmbc\.com\.cn\/m\/image\/loadingpage\/
+# China Guangfa Bank
+URL-REGEX,^https?:\/\/mps\.95508\.com\/mps\/club\/cardPortals\/adv\/\d\.(png|jpg)
+# China Mobile
+URL-REGEX,^https?:\/\/clientaccess\.10086\.cn\/biz-orange\/DN\/init\/startInit
+# China Unicom
+URL-REGEX,^https?:\/\/m\.client\.10010\.com\/mobileService\/customer\/accountListData\.htm
+URL-REGEX,^https?:\/\/m\.client\.10010\.com\/uniAdmsInterface\/getWelcomeAd
+# CNTV
+URL-REGEX,^https?:\/\/cntv\.hls\.cdn\.myqcloud\.com\/.+\?maxbr=850
+URL-REGEX,^https?:\/\/asp\.cntv\.myalicdn\.com\/.+\?maxbr=850
+URL-REGEX,^https?:\/\/www\.cntv\.cn\/nettv\/adp\/
+URL-REGEX,^https?:\/\/v\.cctv\.com\/.+850
+# 车来了
+URL-REGEX,^https?:\/\/api\.chelaile\.net\.cn\/adpub\/
+# URL-REGEX,^https?:\/\/(api|atrace)\.chelaile\.net\.cn\/adpub\/
+URL-REGEX,^https?:\/\/api\.chelaile\.net\.cn\/goocity\/advert\/
+# URL-REGEX,^https?:\/\/atrace\.chelaile\.net\.cn\/exhibit\?&adv_image
+URL-REGEX,^https?:\/\/pic\d\.chelaile\.net\.cn\/adv\/
+# 曹操出行
+URL-REGEX,^https?:\/\/cap\.caocaokeji\.cn\/advert-bss\/
+# CamScanner
+URL-REGEX,^https?:\/\/api\.intsig\.net\/user\/cs\/operating\/app\/get_startpic\/
+# 财经
+URL-REGEX,^https?:\/\/api\.caijingmobile\.com\/(ad|advert)\/
+
+# D
+# 豆瓣
+# (154.8.131.* 疑似自签证书不可验证)
+URL-REGEX,^https?:\/\/.+\/v2\/app_ads\/
+URL-REGEX,^https?:\/\/img\d\.doubanio\.com\/view\/dale-online\/dale_ad/
+# URL-REGEX,^https?:\/\/frodo\.douban\.com\/api\/v2\/movie\/ad
+# 斗鱼
+URL-REGEX,^https?:\/\/rtbapi\.douyucdn\.cn\/japi\/sign\/app\/getinfo
+# 当当
+URL-REGEX,^https?:\/\/mapi\.dangdang\.com\/index\.php\?action=init
+URL-REGEX,^https?:\/\/e\.dangdang\.com\/.+getDeviceStartPage
+# DayDayCook
+URL-REGEX,^https?:\/\/api\.daydaycook\.com\.cn\/daydaycook\/server\/ad\/
+URL-REGEX,^https?:\/\/cms\.daydaycook\.com\.cn\/api\/cms\/advertisement\/
+# 蛋蛋赞
+URL-REGEX,^https?:\/\/www\.dandanzan\.com\/res\/gdsefse\.js
+# 叨鱼
+URL-REGEX,^https?:\/\/daoyu\.sdo\.com\/api\/userCommon\/getAppStartAd
+# 丁香医生
+URL-REGEX,^https?:\/\/dxy\.com\/app\/i\/ask\/biz\/feed\/launch
+
+# E
+# eLong
+URL-REGEX,^https?:\/\/123\.59\.31\.1\/(adgateway|adv)\/
+URL-REGEX,^https?:\/\/119\.18\.193\.135\/(adgateway|adv)\/
+
+# F
+# Foodie
+URL-REGEX,^https?:\/\/foodie-api\.yiruikecorp\.com\/v\d\/(banner|notice)\/overview
+# FOTOABLE
+URL-REGEX,^https?:\/\/cdn\.api\.fotoable\.com\/Advertise\/
+# 飞客茶馆
+URL-REGEX,^https?:\/\/www\.flyertea\.com\/source\/plugin\/mobile\/mobile\.php\?module=advis
+# 飞常准
+URL-REGEX,^https?:\/\/app\.variflight\.com\/ad\/
+URL-REGEX,^https?:\/\/app\.variflight\.com\/v\d\/advert\/
+
+# G
+# Google
+URL-REGEX,^https?:\/\/.+\.googlevideo\.com\/.+&oad
+URL-REGEX,^https?:\/\/.+\.googlevideo\.com\/.+ctier
+URL-REGEX,^https?:\/\/youtubei\.googleapis\.com\/youtubei\/.+ad_
+URL-REGEX,^https?:\/\/youtubei\.googleapis\.com\/youtubei\/.+log_
+URL-REGEX,^https?:\/\/.+\.youtube\.com\/get_midroll_
+URL-REGEX,^https?:\/\/premiumyva\.appspot\.com\/vmclickstoadvertisersite
+URL-REGEX,^https?:\/\/.+\.youtube\.com\/api\/stats\/ads
+URL-REGEX,^https?:\/\/.+\.youtube\.com\/api\/stats\/.+adformat
+URL-REGEX,^https?:\/\/.+\.youtube\.com\/pagead\/
+URL-REGEX,^https?:\/\/.+\.youtube\.com\/ptracking
+# Gofun
+URL-REGEX,^https?:\/\/gateway\.shouqiev\.com\/fsda\/app\/bootImage\.json
+
+# H
+# 杭州公交
+URL-REGEX,^https?:\/\/m\.ibuscloud.com\/v2\/app\/getStartPage
+# 杭州市·市民卡
+URL-REGEX,^https?:\/\/smkmp\.96225.com\/smkcenter\/ad/
+# 虎扑
+URL-REGEX,^https?:\/\/games\.mobileapi\.hupu\.com\/.+\/(interfaceAdMonitor|interfaceAd)\/
+# 韩剧社
+URL-REGEX,^https?:\/\/47\.97\.20\.12\/ad\/
+# 火猫
+URL-REGEX,^https?:\/\/api\.huomao\.com\/channels\/loginAd
+# HiveBox
+URL-REGEX,^https?:\/\/consumer\.fcbox\.com\/v\d\/ad\/
+# 好好住
+URL-REGEX,^https?:\/\/api\.haohaozhu\.cn\/index\.php\/home\/AppInit\/getStartPhoto
+
+# I
+# iFlytek
+URL-REGEX,^https?:\/\/imeclient\.openspeech\.cn\/adservice\/
+# iQiyi
+URL-REGEX,^https?:\/\/iface\.iqiyi\.com\/api\/getNewAdInfo
+URL-REGEX,^https?:\/\/.+\/(mixer|track2)\?
+URL-REGEX,^https?:\/\/act\.vip\.iqiyi\.com\/interact\/api\/show.do
+URL-REGEX,^https?:\/\/act\.vip\.iqiyi\.com\/interact\/api\/v2\/show
+# iReader
+URL-REGEX,^https?:\/\/ih2\.ireader\.com\/zyapi\/bookstore\/ad\/
+URL-REGEX,^https?:\/\/ih2\.ireader\.com\/zyapi\/self\/screen\/ad
+URL-REGEX,^https?:\/\/ih2\.ireader\.com\/zycl\/api\/ad\/
+
+# J
+# JD
+URL-REGEX,^https?:\/\/api\.m\.jd.com\/client\.action\?functionId=(start|queryMaterialAdverts)
+URL-REGEX,^https?:\/\/(bdsp-x|dsp-x)\.jd\.com\/adx\/
+URL-REGEX,^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/base\/na\/m\/adInfo
+# 界面新闻
+URL-REGEX,^https?:\/\/img\.jiemian\.com\/ads\/
+# 驾校一点通
+URL-REGEX,^https?:\/\/api\.jxedt\.com\/ad\/
+URL-REGEX,^https?:\/\/richmanapi\.jxedt\.com\/api\/ad\/
+# 驾考宝典
+URL-REGEX,^https?:\/\/.+\.kakamobi\.cn\/api\/open\/v\d\/advert-sdk\/
+
+# K
+# Keep
+URL-REGEX,^https?:\/\/api\.gotokeep\.com\/ads
+# Kingsoft WPS
+URL-REGEX,^https?:\/\/ios\.wps\.cn\/ad-statistics-service
+URL-REGEX,^https?:\/\/mobile-pic\.cache\.iciba\.com\/feeds_ad\/
+URL-REGEX,^https?:\/\/.+\.kingsoft-office-service\.com\/ad
+# Kingsoft PowerWord
+URL-REGEX,^https?:\/\/dict-mobile\.iciba\.com\/interface\/index\.php\?.+(c=ad|collectFeedsAdShowCount|KSFeedsAdCardViewController)
+URL-REGEX,^https?:\/\/service\.iciba\.com\/popo\/open\/screens\/v\d\?adjson
+# 快看漫画
+URL-REGEX,^https?:\/\/api\.kkmh\.com\/.+(ad|advertisement)\/
+# Kuwo
+URL-REGEX,^https?:\/\/(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})(\.(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})){3}\/MobileAdServer\/
+URL-REGEX,^https?:\/\/(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})(\.(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})){3}\/EcomResourceServer/AdPlayPage/adinfo
+# 看理想
+URL-REGEX,^https?:\/\/api\.vistopia\.com\.cn\/api\/v\d\/home\/advertisement
+
+# L
+# Le
+URL-REGEX,^https?:\/\/.+\/letv-gug\/
+# 来疯直播
+URL-REGEX,^https?:\/\/api\.laifeng\.com\/v\d\/start\/ads
+# 懒投资
+URL-REGEX,^https?:\/\/ios\.lantouzi\.com\/api\/startpage
+
+# M
+# MI
+URL-REGEX,^https?:\/\/api\.m\.mi\.com\/v\d\/app\/start
+URL-REGEX,^https?:\/\/api\.jr\.mi\.com\/v\d\/adv\/
+URL-REGEX,^https?:\/\/api\.jr\.mi\.com\/jr\/api\/playScreen
+# MI_Fit
+URL-REGEX,^https?:\/\/api-mifit.+\.huami\.com\/discovery\/mi\/discovery\/.+_ad\?
+# MogoRenter
+URL-REGEX,^https?:\/\/api\.mgzf\.com\/renter-operation\/home\/startHomePage
+# MojiWeather
+URL-REGEX,^https?:\/\/cdn\.moji\.com\/(adoss|adlink)\/
+# 埋堆堆
+URL-REGEX,^https?:\/\/mob\.mddcloud\.com\.cn\/api\/(ad|advert)\/
+# 漫画人
+URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/public\/getStartPageAds
+# 美团
+URL-REGEX,^https?:\/\/img\.meituan\.net\/(display|midas)\/.+\.(gif|jpg)
+URL-REGEX,^https?:\/\/p\d\.meituan\.net\/wmbanner\/[A-Za-z0-9]+\.jpg
+URL-REGEX,^https?:\/\/p\d\.meituan\.net\/movie\/[A-Za-z0-9]+\.jpg\?may_covertWebp
+URL-REGEX,^https?:\/\/s3plus\.meituan\.net\/.+\/linglong\/.+\.jpg
+# 美味不用等
+URL-REGEX,^https?:\/\/capi.mwee.cn/app-api/V\d{2}/app/getstartad
+# 咪咕
+URL-REGEX,^https?:\/\/.+\/v\d\/iflyad\/
+URL-REGEX,^https?:\/\/.+\/cdn-adn\/
+URL-REGEX,^https?:\/\/ggic\d?\.cmvideo\.cn\/ad\/
+URL-REGEX,^https?:\/\/.+/img\/ad\.union\.api\/
+# 秒拍
+URL-REGEX,^https?:\/\/b-api\.ins\.miaopai\.com\/\d\/ad/
+# 马蜂窝
+URL-REGEX,^https?:\/\/mapi\.mafengwo\.cn\/ad\/
+URL-REGEX,^https?:\/\/mapi\.mafengwo\.cn\/travelguide\/ad\/
+
+# N
+# NetEase
+# NetEase Youdao
+URL-REGEX,^https?:\/\/oimage([a-z])([0-9])\.ydstatic\.com\/.+adpublish
+URL-REGEX,^https?:\/\/dsp-impr2\.youdao\.com\/adload.s\?
+# NetEase News
+URL-REGEX,^https?:\/\/c\.m\.163\.com\/nc\/gl\/
+# NetEase MoneyKeeper
+URL-REGEX,^https?:\/\/client\.mail\.163\.com\/apptrack\/confinfo\/searchMultiAds
+# NetEase CloudMusic
+URL-REGEX,^https?:\/\/.+\/eapi\/(ad|log)\/
+# NetEase 考拉
+URL-REGEX,^https?:\/\/sp\.kaola\.com\/api\/openad
+# NetEase Yanxuan
+URL-REGEX,^https?:\/\/support\.you\.163\.com\/xhr\/boot\/getBootMedia\.json
+# NetEase SnailReader
+URL-REGEX,^https?:\/\/easyreadfs\.nosdn\.127\.net\/ad-material\/
+# 爱南宁
+URL-REGEX,^https?:\/\/nnapp\.cloudbae\.cn\/mc\/api\/advert/
+# NationalGeographic
+URL-REGEX,^https?:\/\/dili\.bdatu\.com\/jiekou\/ad\/
+# NationalGeographicChina
+URL-REGEX,^https?:\/\/wap\.ngchina\.cn\/news\/adverts\/
+
+# O
+#ofo
+URL-REGEX,^https?:\/\/supportda\.ofo\.com\/adaction\?
+URL-REGEX,^https?:\/\/ma\.ofo\.com\/ads\/
+URL-REGEX,^https?:\/\/activity2\.api\.ofo\.com\/ofo\/Api\/v2\/ads
+URL-REGEX,^https?:\/\/ma\.ofo\.com\/adImage\/
+# Oray
+URL-REGEX,^https?:\/\/slapi.oray.net/client/ad
+
+# P
+# PeanutWiFiMpass
+URL-REGEX,^https?:\/\/cmsapi\.wifi8\.com\/v\d\/(emptyAd|adNew)\/
+# 票根
+URL-REGEX,^https?:\/\/pss\.txffp\.com\/piaogen\/images\/launchScreen/
+
+# Q
+# Qdaily
+URL-REGEX,^https?:\/\/app3\.qdaily\.com\/app3\/boot_advertisements\.json
+URL-REGEX,^https?:\/\/notch\.qdaily\.com\/api\/v2\/boot_ad
+# 穷游
+URL-REGEX,^https?:\/\/open\.qyer\.com\/qyer\/startpage\/
+URL-REGEX,^https?:\/\/open\.qyer.com\/qyer\/config\/get
+URL-REGEX,^https?:\/\/media\.qyer\.com\/ad\/
+
+# R
+# 人人视频
+URL-REGEX,^https?:\/\/msspjh\.emarbox\.com\/getAdConfig
+URL-REGEX,^https?:\/\/api\.videozhishi\.com\/api\/getAdvertising
+URL-REGEX,^https?:\/\/api\.rr\.tv\/ad\/
+
+# S
+# Sina
+URL-REGEX,^https?:\/\/edit\.sinaapp\.com\/ua\?t=adv
+# Sina Weibo
+URL-REGEX,^https?:\/\/sdkapp\.uve\.weibo\.com\/interface\/sdk\/sdkad\.php
+URL-REGEX,^https?:\/\/wbapp\.uve\.weibo\.com\/wbapplua\/wbpullad\.lua
+URL-REGEX,^https?:\/\/sdkapp\.uve\.weibo\.com/\interface\/sdk\/actionad\.php
+URL-REGEX,^https?:\/\/weibointl\.api\.weibo\.cn\/portal\.php\?a=get_coopen_ads
+# Sina 天气通
+URL-REGEX,^https?:\/\/tqt\.weibo\.cn\/overall\/redirect\.php\?r=tqt_sdkad
+URL-REGEX,^https?:\/\/tqt\.weibo\.cn\/overall\/redirect\.php\?r=tqtad
+URL-REGEX,^https?:\/\/tqt\.weibo\.cn\/.+advert\.index
+URL-REGEX,^https?:\/\/tqt\.weibo\.cn\/api\/advert\/
+# Sohu
+URL-REGEX,^https?:\/\/api\.k\.sohu\.com\/api\/news\/adsense
+URL-REGEX,^https?:\/\/pic\.k\.sohu\.com\/img8\/wb\/tj\/
+URL-REGEX,^https?:\/\/s1\.api\.tv\.itc\.cn\/v4\/mobile\/control\/switch\.json
+URL-REGEX,^https?:\/\/api\.tv\.sohu\.com\/agg\/api\/app\/config\/bootstrap
+# StarFans
+URL-REGEX,^https?:\/\/a\.sfansclub\.com\/business\/t\/ad\/
+URL-REGEX,^https?:\/\/a\.sfansclub\.com\/business\/t\/boot\/screen\/index
+# 什么值得买
+URL-REGEX,^https?:\/\/api\.smzdm\.com\/v\d\/util\/loading
+# 四季線上影視4gTV
+URL-REGEX,^https?:\/\/service\.4gtv\.tv\/4gtv\/Data\/(GetAD|ADLog)
+# 肆客足球
+URL-REGEX,^https?:\/\/api\.qiuduoduo\.cn\/guideimage
+# 识货
+URL-REGEX,^https?:\/\/www\.shihuo\.cn\/app3\/saveAppInfo
+# 首汽约车
+URL-REGEX,^https?:\/\/gw-passenger\.01zhuanche\.com\/gw-passenger\/car-rest\/webservice\/passenger\/recommendADs
+URL-REGEX,^https?:\/\/gw-passenger\.01zhuanche\.com\/gw-passenger\/zhuanche-passenger-token\/leachtoken\/webservice\/homepage\/queryADs
+# Suning
+URL-REGEX,^https?:\/\/image\.suning\.cn\/uimg\/ma\/ad\/
+# 神舟专车
+URL-REGEX,^https?:\/\/img01\.10101111cdn\.com\/adpos\/
+
+# T
+# Tencent
+# Tencent Futubull
+URL-REGEX,^https?:\/\/api5\.futunn\.com\/ad\/
+# Tencent Game
+URL-REGEX,^https?:\/\/ssl\.kohsocialapp\.qq\.com:10001\/game\/buttons
+URL-REGEX,^https?:\/\/qt\.qq\.com\/lua\/mengyou\/get_splash_screen_info
+# Tencent Maps
+URL-REGEX,^https?:\/\/3gimg\.qq\.com\/tencentMapTouch\/app\/activity\/
+URL-REGEX,^https?:\/\/3gimg\.qq\.com\/tencentMapTouch\/splash\/
+# Tencent QQLive
+URL-REGEX,^https?:\/\/btrace.qq.com
+URL-REGEX,^https?:\/\/vv\.video\.qq\.com\/getvmind\?
+URL-REGEX,^https?:\/\/.+\.mp4.+&sdtfrom=v3004
+# Tencent QQNews
+URL-REGEX,^https?:\/\/r\.inews\.qq\.com\/(adsBlacklist|getFullScreenPic|getQQNewsRemoteConfig)
+# Tencent WeChat
+URL-REGEX,^https?:\/\/mp\.weixin\.qq\.com\/mp\/(ad_|advertisement|getappmsgad)
+# Thunder
+URL-REGEX,^https?:\/\/images\.client\.vip\.xunlei\.com\/.+\/advert\/
+# TV_Home
+URL-REGEX,^https?:\/\/api\.gaoqingdianshi\.com\/api\/v\d\/ad\/
+# The_Paper
+URL-REGEX,^https?:\/\/adpai\.thepaper\.cn\/.+&ad=
+# 太平洋
+URL-REGEX,^https?:\/\/agent-count\.pconline\.com\.cn\/counter\/adAnalyse\/
+URL-REGEX,^https?:\/\/mrobot\.pconline\.com\.cn\/v\d\/ad2p
+URL-REGEX,^https?:\/\/mrobot\.pconline\.com\.cn\/s\/onlineinfo\/ad\/
+URL-REGEX,^https?:\/\/mrobot\.pcauto\.com\.cn\/v\d\/ad2p
+URL-REGEX,^https?:\/\/mrobot\.pcauto\.com\.cn\/xsp\/s\/auto\/info\/preload\.xsp
+
+# V
+# VUE
+URL-REGEX,^https?:\/\/static\.vuevideo\.net\/styleAssets\/.+\/splash_ad
+URL-REGEX,^https?:\/\/static\.vuevideo\.net\/styleAssets\/advertisement\/
+
+# W
+# WeDoctor
+URL-REGEX,^https?:\/\/app\.wy\.guahao\.com\/json\/white\/dayquestion\/getpopad
+# Weico
+URL-REGEX,^https?:\/\/overseas\.weico\.cc/portal\.php\?a=get_coopen_ads
+# 无他相机
+URL-REGEX,^https?:\/\/api-release\.wuta-cam\.com\/ad_tree
+URL-REGEX,^https?:\/\/res-release\.wuta-cam\.com\/json\/ads_component_cache\.json
+# 蜗牛睡眠
+URL-REGEX,^https?:\/\/snailsleep\.net\/snail\/v\d\/screen\/qn\/get\?
+URL-REGEX,^https?:\/\/snailsleep\.net\/snail\/v\d\/adTask\/
+# WiFi共享大师
+URL-REGEX,^https?:\/\/nochange\.ggsafe\.com\/ad\/
+# 微店
+URL-REGEX,^https?:\/\/thor\.weidian\.com\/ares\/home\.splash\/
+# 华尔街见闻
+URL-REGEX,^https?:\/\/api\.wallstreetcn\.com\/apiv\d\/advertising\/
+
+# X
+# 下厨房
+URL-REGEX,^https?:\/\/api\.xiachufang\.com\/v2\/ad/
+# 虾米
+URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alimusic\.common\.mobileservice\.startinit\/
+# 小睡眠
+URL-REGEX,^https?:\/\/api\.psy-1\.com\/cosleep\/startup
+# 迅游加速器
+URL-REGEX,^https?:\/\/portal-xunyou\.qingcdn\.com\/api\/v\d\/ios\/configs\/(splash_ad|ad_urls)
+URL-REGEX,^https?:\/\/portal-xunyou\.qingcdn\.com\/api\/v\d\/ios\/ads\/
+# 喜马拉雅
+URL-REGEX,^https?:\/\/.+\/api\/v\d\/adRealTime
+# 小站
+URL-REGEX,^https?:\/\/tiku\.zhan\.com\/Common\/newAd\/
+
+# Y
+# Yahoo!
+URL-REGEX,^https?:\/\/m\.yap\.yahoo\.com\/v18\/getAds\.do
+# Youtube++
+URL-REGEX,^https?:\/\/api\.catch\.gift\/api\/v3\/pagead\/
+# YOUKU
+URL-REGEX,^https?:\/\/.+\.mp4\?ccode=0902
+URL-REGEX,^https?:\/\/.+\.mp4\?sid=
+# YYeTs
+URL-REGEX,^https?:\/\/ctrl\.(playcvn|zmzapi)\.(com|net)\/app\/(ads|init)
+# 萤石云视频
+URL-REGEX,^https?:\/\/i\.ys7\.com\/api\/ads
+# 运动世界
+URL-REGEX,^https?:\/\/.+\.iydsj\.com\/api\/.+\/ad
+# 一点万象
+URL-REGEX,^https?:\/\/app\.mixcapp\.com\/mixc\/api\/v\d\/ad
+# 印象笔记
+URL-REGEX,^https?:\/\/app\.yinxiang\.com\/ads\/
+
+# Z
+# 直播吧
+URL-REGEX,^https?:\/\/a\.qiumibao\.com\/activities\/config\.php
+URL-REGEX,^https?:\/\/.+\/allOne\.php\?ad_name
+# 知乎
+URL-REGEX,^https?:\/\/www\.zhihu\.com\/api\/v4\/community-ad\/
+URL-REGEX,^https?:\/\/api\.zhihu\.com\/(launch|real_time)
+URL-REGEX,^https?:\/\/api\.zhihu\.com\/commercial_api\/(launch|real_time)
+# 追书神器
+URL-REGEX,^https?:\/\/(api|b)\.zhuishushenqi\.com\/advert
+URL-REGEX,^https?:\/\/api\.zhuishushenqi\.com\/splashes\/ios
+URL-REGEX,^https?:\/\/api\.zhuishushenqi\.com\/notification\/shelfMessage
+URL-REGEX,^https?:\/\/api\.zhuishushenqi\.com\/user\/bookshelf-updated
+URL-REGEX,^https?:\/\/itunes\.apple\.com\/lookup\?id=575826903
+# 作业帮
+URL-REGEX,^https?:\/\/www\.zybang\.com\/adx\/
+# 最右
+URL-REGEX,^https?:\/\/api\.izuiyou\.com\/ad\/
