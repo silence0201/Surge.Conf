@@ -11,3 +11,5 @@ DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,im9.com
 USER-AGENT,*bili*
+# 愛奇藝台灣站
+DOMAIN,cache.video.iqiyi.com
